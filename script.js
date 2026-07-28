@@ -586,10 +586,6 @@ function renderInstitutionList(institutions) {
                 ${escapeHtml(TYPE_LABELS[institution.type] ?? "Institution")}
               </span>
             </span>
-
-            <span class="stage-badge stage-${escapeHtml(institution.stage)}">
-              ${escapeHtml(institution.stageLabel)}
-            </span>
           </span>
         </button>
       `
@@ -916,13 +912,7 @@ function renderProfileDrawer(institution) {
         >
           <h3 id="profile-details-heading">At a glance</h3>
 
-          <dl class="profile-details">
-            <div>
-              <dt>Current status</dt>
-              <dd>${escapeHtml(institution.stageLabel)}</dd>
-            </div>
-
-            ${yearDetail}
+          <dl class="profile-details">            ${yearDetail}
             ${timeframeDetail}
             ${organizationsDetail}
 
