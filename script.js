@@ -339,8 +339,6 @@ const resetViewButton = document.getElementById("reset-view");
 
 const legendElement = document.getElementById("map-legend");
 const legendToggle = document.getElementById("legend-toggle");
-const legendTabs = Array.from(document.querySelectorAll(".legend-tab"));
-const legendPanels = Array.from(document.querySelectorAll(".legend-panel"));
 
 let activeType = "all";
 let searchTerm = "";
@@ -358,56 +356,14 @@ function setLegendExpanded(isExpanded) {
   legendToggle.setAttribute("aria-expanded", String(isExpanded));
 }
 
-function setLegendTab(tabName) {
-  if (!legendTabs.length || !legendPanels.length) return;
-
-  legendTabs.forEach((tab) => {
-    const isActive = tab.dataset.legendTab === tabName;
-    tab.classList.toggle("is-active", isActive);
-    tab.setAttribute("aria-selected", String(isActive));
-    tab.tabIndex = isActive ? 0 : -1;
-  });
-
-  legendPanels.forEach((panel) => {
-    const isActive = panel.dataset.legendPanel === tabName;
-    panel.classList.toggle("is-active", isActive);
-    panel.hidden = !isActive;
-  });
-}
-
 function initializeLegendControls() {
   if (!legendElement || !legendToggle) return;
 
   setLegendExpanded(legendToggle.getAttribute("aria-expanded") !== "false");
 
-  const activeTab = legendTabs.find((tab) => tab.classList.contains("is-active"))?.dataset.legendTab
-    ?? legendTabs[0]?.dataset.legendTab;
-
-  if (activeTab) setLegendTab(activeTab);
-
   legendToggle.addEventListener("click", () => {
     const isExpanded = legendToggle.getAttribute("aria-expanded") !== "false";
     setLegendExpanded(!isExpanded);
-  });
-
-  legendTabs.forEach((tab, index) => {
-    tab.addEventListener("click", () => setLegendTab(tab.dataset.legendTab));
-
-    tab.addEventListener("keydown", (event) => {
-      if (!["ArrowLeft", "ArrowRight", "Home", "End"].includes(event.key)) return;
-      event.preventDefault();
-
-      let nextIndex = index;
-      if (event.key === "ArrowRight") nextIndex = (index + 1) % legendTabs.length;
-      if (event.key === "ArrowLeft") nextIndex = (index - 1 + legendTabs.length) % legendTabs.length;
-      if (event.key === "Home") nextIndex = 0;
-      if (event.key === "End") nextIndex = legendTabs.length - 1;
-
-      const nextTab = legendTabs[nextIndex];
-      if (!nextTab) return;
-      setLegendTab(nextTab.dataset.legendTab);
-      nextTab.focus();
-    });
   });
 }
 
