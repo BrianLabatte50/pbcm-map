@@ -96,6 +96,48 @@
     }
   },
   {
+    "id": "saanich",
+    "name": "Saanich",
+    "shortName": "Saanich",
+    "type": "city",
+    "city": "Saanich",
+    "province": "BC",
+    "coordinates": {
+      "lat": 48.45639,
+      "lng": -123.372
+    },
+    "coordinatesApproximate": true,
+    "stage": "implemented",
+    "stageLabel": "Implemented / documented",
+    "yearImplemented": null,
+    "timeframe": "",
+    "headline": "One-Year Plant-Forward Procurement Pilot Launched",
+    "stats": [
+      {
+        "value": "1",
+        "label": "Year pilot"
+      }
+    ],
+    "summary": "Saanich launched a one-year pilot after a Greener by Default workshop. The pilot tests plant-forward food purchasing and vendor practices while staff develop policy and emissions tracking.",
+    "achievements": [
+      "Saanich Sustainability department agreed that prioritizing plant based foods when using public money to buy food or hiring food vendors and contracting food service in the region. Saanich hosted a workshop by Greener by Default and launched a one year pilot project to test uptake and feasibility. Policy development is underway and GHG measurement procedures being developed."
+    ],
+    "organizationsInvolved": [
+      "Plant-Based Cities Movement-supported initiative, Greener By Default provided workshop and support for managers and staff"
+    ],
+    "resources": [],
+    "lastUpdated": "2026-07-28",
+    "verified": true,
+    "image": {
+      "url": "https://www.saanich.ca/assets/News~and~Events/Images/SpotlightFall2022-PKOLS-bubble-image.jpg",
+      "kind": "community",
+      "alt": "View across the District of Saanich",
+      "credit": "District of Saanich",
+      "source": "https://www.saanich.ca/",
+      "position": "center"
+    }
+  },
+  {
     "id": "vancouver",
     "name": "Vancouver",
     "shortName": "Vancouver",
@@ -1246,6 +1288,242 @@
       "alt": "Vari Hall and central fountain at York University",
       "credit": "Andrei Sedoff",
       "source": "https://commons.wikimedia.org/wiki/File:Vari_Hall.jpg",
+      "position": "center"
+    }
+  },
+  {
+    "id": "vancouver-coastal-health",
+    "name": "Vancouver Coastal Health",
+    "shortName": "Vancouver Coastal Health",
+    "type": "hospital",
+    "city": "Vancouver",
+    "province": "BC",
+    "coordinates": {
+      "lat": 49.26116,
+      "lng": -123.12209
+    },
+    "coordinatesApproximate": true,
+    "stage": "active",
+    "stageLabel": "Commitment in progress",
+    "yearImplemented": null,
+    "timeframe": "",
+    "headline": "High-Emission Hospital Dishes Replaced with Plant-Forward Alternatives",
+    "stats": [],
+    "summary": "The work represents an important shift from isolated vegetarian choices toward intentional health-system menu reform.",
+    "achievements": [
+      "Advanced a plant-forward health-care food strategy that replaces selected high-emission dishes with plant-based and lower-emission alternatives.",
+      "Uses planetary-health principles to connect patient and staff food with climate and public-health outcomes.",
+      "Brings plant-forward menu development into a regional health-authority setting serving multiple facilities.",
+      "Demonstrates that hospital food can support both clinical nutrition and emissions reduction."
+    ],
+    "organizationsInvolved": [],
+    "resources": [
+      {
+        "label": "Primary source",
+        "url": "https://www.landfood.ubc.ca/advancing-innovation-and-sustainability-in-healthcare-food-services/"
+      }
+    ],
+    "lastUpdated": "2026-07-28",
+    "verified": true,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Vancouver_General_Hospital_08_%285908484771%29.jpg",
+      "kind": "institution",
+      "alt": "Main entrance sign at Vancouver General Hospital in Vancouver, British Columbia",
+      "credit": "Photo by Mike (SqueakyMarmot), CC BY-SA 2.0, via Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:Vancouver_General_Hospital_08_(5908484771).jpg",
+      "position": "center"
+    }
+  },
+  {
+    "id": "university-of-toronto-scarborough",
+    "name": "University of Toronto Scarborough",
+    "shortName": "University of Toronto Scarborough",
+    "type": "university",
+    "city": "Scarborough",
+    "province": "ON",
+    "coordinates": {
+      "lat": 43.78304,
+      "lng": -79.18745
+    },
+    "coordinatesApproximate": true,
+    "stage": "active",
+    "stageLabel": "Commitment in progress",
+    "yearImplemented": null,
+    "timeframe": "2030-12-31",
+    "headline": "Residence Dining Connected to a 25% Food-Emissions Reduction Commitment",
+    "stats": [
+      {
+        "value": "25%",
+        "label": "Food-emissions reduction target by 2030 (%)"
+      }
+    ],
+    "summary": "The achievement connects residence menus to a recognized, measurable climate target rather than relying only on sustainability messaging.",
+    "achievements": [
+      "Applies Aramark’s Cool Food Pledge commitment within a major residence dining facility.",
+      "Supports a goal to reduce food-related greenhouse-gas emissions by 25% by 2030.",
+      "Integrates lower-carbon menu planning into a high-volume student dining environment.",
+      "Places food emissions alongside the building’s broader Passive House and sustainability objectives."
+    ],
+    "organizationsInvolved": [],
+    "resources": [
+      {
+        "label": "Primary source",
+        "url": "https://www.utsc.utoronto.ca/food/harmony-commons-passive-house-dining"
+      }
+    ],
+    "lastUpdated": "2026-07-28",
+    "verified": true,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/University_of_Toronto_Scarborough_aerial_view_2024.jpg",
+      "kind": "institution",
+      "alt": "Aerial view of the University of Toronto Scarborough campus in Toronto",
+      "credit": "Photo by Canmenwalker, CC BY 4.0, via Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:University_of_Toronto_Scarborough_aerial_view_2024.jpg",
+      "position": "center"
+    }
+  },
+  {
+    "id": "university-of-ottawa",
+    "name": "University of Ottawa",
+    "shortName": "uOttawa",
+    "type": "university",
+    "city": "Ottawa",
+    "province": "ON",
+    "coordinates": {
+      "lat": 45.4231,
+      "lng": -75.6831
+    },
+    "coordinatesApproximate": true,
+    "stage": "implemented",
+    "stageLabel": "Commitment",
+    "yearImplemented": null,
+    "timeframe": "2030-12-31",
+    "headline": "uOttawa joins the Cool Food Pledge",
+    "stats": [
+      {
+        "value": "25%",
+        "label": "% food-related GHG reduction target"
+      }
+    ],
+    "summary": "The University of Ottawa reported joining the Cool Food Pledge to reduce greenhouse-gas emissions from the food it serves by 25% by 2030. The commitment is documented in an official university climate report.",
+    "achievements": [
+      "Committed to reducing food-related greenhouse-gas emissions",
+      "Joined the Cool Food Pledge",
+      "Set a 25% reduction goal for 2030"
+    ],
+    "organizationsInvolved": [
+      "University of Ottawa",
+      "Cool Food"
+    ],
+    "resources": [
+      {
+        "label": "Primary source",
+        "url": "https://www.uottawa.ca/campus-life/sites/g/files/bhrskd281/files/2023-04/SIPR-22-DWM-3734-ClimateChangeReport_EN_WEB_v6.pdf"
+      }
+    ],
+    "lastUpdated": "2026-07-28",
+    "verified": true,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/University_of_Ottawa%2C_Ottawa%2C_Ontario_%2829775014520%29.jpg",
+      "kind": "institution",
+      "alt": "View of the University of Ottawa campus in Ottawa, Ontario",
+      "credit": "Photo by Ken Lund, CC BY-SA 2.0, via Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:University_of_Ottawa,_Ottawa,_Ontario_(29775014520).jpg",
+      "position": "center"
+    }
+  },
+  {
+    "id": "st-joseph-s-health-care-london",
+    "name": "St. Joseph's Health Care London",
+    "shortName": "St. Joseph's Health Care London",
+    "type": "hospital",
+    "city": "London",
+    "province": "ON",
+    "coordinates": {
+      "lat": 42.98707,
+      "lng": -81.25114
+    },
+    "coordinatesApproximate": true,
+    "stage": "implemented",
+    "stageLabel": "Implemented",
+    "yearImplemented": 2015,
+    "timeframe": "1905-07-17 | 2030-12-31",
+    "headline": "Patient-Approved Plant-Forward Recipes Support a 25% Emissions Goal",
+    "stats": [
+      {
+        "value": "25%",
+        "label": "Food-emissions reduction target by 2030 (%)"
+      },
+      {
+        "value": "2015",
+        "label": "Year documented"
+      }
+    ],
+    "summary": "St. Joseph's demonstrates that plant-forward hospital meals can support climate goals while retaining strong patient acceptance.",
+    "achievements": [
+      "Committed to reducing food-related greenhouse-gas emissions by 25% by 2030 from a 2015 baseline.",
+      "Incorporated lentils and beans into familiar patient and resident dishes.",
+      "Achieved satisfaction scores above 85% for a reformulated lentil-enhanced meatloaf.",
+      "Increased spending on Ontario produce by 23% compared with 2022."
+    ],
+    "organizationsInvolved": [],
+    "resources": [
+      {
+        "label": "Primary source",
+        "url": "https://www.sjhc.london.on.ca/news-and-media/our-stories/nourishing-health-connection-and-our-planet"
+      }
+    ],
+    "lastUpdated": "2026-07-28",
+    "verified": true,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/St._Joseph%27s_Hospital_-_268_Grosvenor_St._%2814796012639%29.jpg",
+      "kind": "institution",
+      "alt": "Historical view of St. Joseph’s Hospital in London, Ontario, in 1964",
+      "credit": "Congregation of the Sisters of St. Joseph in Canada Archives, via Wikimedia Commons; no known copyright restrictions",
+      "source": "https://commons.wikimedia.org/wiki/File:St._Joseph%27s_Hospital_-_268_Grosvenor_St._(14796012639).jpg",
+      "position": "center"
+    }
+  },
+  {
+    "id": "royal-columbian-hospital",
+    "name": "Royal Columbian Hospital",
+    "shortName": "Royal Columbian Hospital",
+    "type": "hospital",
+    "city": "New Westminster",
+    "province": "BC",
+    "coordinates": {
+      "lat": 49.2227,
+      "lng": -122.8885
+    },
+    "coordinatesApproximate": true,
+    "stage": "active",
+    "stageLabel": "Commitment in progress",
+    "yearImplemented": null,
+    "timeframe": "",
+    "headline": "Hospital Food Emissions Measured Through Planetary Health Menus",
+    "stats": [],
+    "summary": "The initiative provides a structured route from food-emissions measurement to lower-carbon menu action.",
+    "achievements": [
+      "Joined the Planetary Health Menus initiative to calculate and reduce the climate impact of hospital food.",
+      "Publicly identified participation in the Coolfood Pledge framework.",
+      "Began using menu and procurement data to guide climate action in health-care food service.",
+      "Connected hospital food reform with patient health and the health sector’s environmental responsibilities."
+    ],
+    "organizationsInvolved": [],
+    "resources": [
+      {
+        "label": "Primary source",
+        "url": "https://nourishleadership.ca/programs/planetary-health/"
+      }
+    ],
+    "lastUpdated": "2026-07-29",
+    "verified": true,
+    "image": {
+      "url": "https://live.staticflickr.com/65535/55288061129_5806b76628_b.jpg",
+      "kind": "institution",
+      "alt": "New Jim Pattison Acute Care Tower at Royal Columbian Hospital in New Westminster, British Columbia",
+      "credit": "Province of British Columbia, CC BY-NC-ND 4.0",
+      "source": "https://www.flickr.com/photos/bcgovphotos/55288061129/?utm_source=chatgpt.com",
       "position": "center"
     }
   }
