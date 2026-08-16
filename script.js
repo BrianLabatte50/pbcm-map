@@ -1,30 +1,8 @@
-/* =========================================================
-   LIGHTING UP CANADA — EXTERNAL PUBLIC MAP DATA
-   =========================================================
-
-   Institution records are loaded exclusively from
-   ./institutions.json near the end of this file.
-
-   Keep record content out of script.js so the workbook/Apps Script
-   export remains the single source of truth.
-*/
+/* Data */
 
 let INSTITUTIONS = [];
 
-
-/* =========================================================
-   PROFILE IMAGES — JSON-CONTROLLED
-   =========================================================
-
-   Image policy:
-   1. The spreadsheet / Apps Script export is the source of truth.
-   2. The public map reads only institution.image from institutions.json.
-   3. image-audit.csv is not requested or parsed by this file.
-   4. No stock-image pools, hashing, scraping, or institution-specific
-      fallback assignment is performed in the browser.
-   5. A restrained generic illustration is used only when image metadata is
-      missing or the approved image fails to load.
-*/
+/* Profile images */
 
 const APPROVED_IMAGE_KINDS = new Set([
   "initiative",
@@ -100,10 +78,7 @@ function normalizeImagePosition(value) {
 
   if (!position) return "center";
 
-  /*
-    Allow common object-position values and percentages while preventing
-    arbitrary CSS injection through exported spreadsheet text.
-  */
+  
   if (
     /^(center|top|bottom|left|right)(\s+(center|top|bottom|left|right))?$/i.test(position)
     || /^\d{1,3}%(\s+\d{1,3}%)?$/.test(position)
@@ -269,9 +244,7 @@ async function hydrateProfileImage(institution) {
   }
 }
 
-/* =========================================================
-   ICONS AND DISPLAY CONSTANTS
-   ========================================================= */
+/* Icons and display constants */
 
 const TYPE_ICONS = {
   university: `
@@ -302,11 +275,11 @@ const TYPE_ICONS = {
 };
 
 const TYPE_LABELS = {
-  university: "Educational institution",
-  hospital: "Healthcare institution",
+  university: "Educational",
+  hospital: "Healthcare",
   city: "Municipality",
-  government: "Government or public body",
-  other: "Other institution"
+  government: "Government",
+  other: "Other"
 };
 
 const CANADA_VIEW = {
@@ -314,15 +287,12 @@ const CANADA_VIEW = {
   zoom: 4
 };
 
-/* =========================================================
-   DOM AND STATE
-   ========================================================= */
+/* Dom and state */
 
 const directoryApp = document.getElementById("directory-app");
 const listElement = document.getElementById("institution-list");
 const emptyStateElement = document.getElementById("empty-state");
 const resultCountElement = document.getElementById("result-count");
-const headerCountElement = document.getElementById("header-count");
 const searchInput = document.getElementById("institution-search");
 const filterButtons = [...document.querySelectorAll(".filter-chip")];
 
@@ -348,7 +318,6 @@ let sidebarCollapsed = false;
 
 const markers = new Map();
 
-
 function setLegendExpanded(isExpanded) {
   if (!legendElement || !legendToggle) return;
 
@@ -367,9 +336,7 @@ function initializeLegendControls() {
   });
 }
 
-/* =========================================================
-   MAP
-   ========================================================= */
+/* Map */
 
 const map = L.map("map", {
   center: CANADA_VIEW.center,
@@ -380,14 +347,6 @@ const map = L.map("map", {
   scrollWheelZoom: true
 });
 
-/*
-  MapTiler Hybrid basemap.
-
-  This uses Leaflet's native raster tile layer rather than the optional
-  MapTiler SDK bridge. It keeps the satellite imagery, labels, roads and
-  political/provincial boundaries while avoiding a plug-in failure from
-  stopping the rest of the application.
-*/
 const MAPTILER_KEY = "tKFppSkMugbwLBqhX3rw";
 
 const maptilerHybridLayer = L.tileLayer(
@@ -408,9 +367,7 @@ maptilerHybridLayer.addTo(map);
 
 initializeLegendControls();
 
-/* =========================================================
-   HELPERS
-   ========================================================= */
+/* Helpers */
 
 function escapeHtml(value = "") {
   return String(value)
@@ -452,11 +409,7 @@ function formatStatValue(value) {
 
   const rawValue = String(value).trim();
 
-  /*
-    Spreadsheet percentages may arrive as decimals, such as 0.65.
-    Show those as 65% in the bold profile infographic, while leaving
-    existing values such as "46%", years, counts and other text unchanged.
-  */
+  
   if (/^(?:0(?:\.\d+)?|1(?:\.0+)?)$/.test(rawValue)) {
     const percentage = Number(rawValue) * 100;
 
@@ -525,9 +478,7 @@ function createInstitutionIcon(institution) {
   });
 }
 
-/* =========================================================
-   LEGEND
-   ========================================================= */
+/* Legend */
 
 function renderTypeLegend() {
   if (!typeLegendElement) return;
@@ -550,9 +501,7 @@ function renderTypeLegend() {
     .join("");
 }
 
-/* =========================================================
-   DIRECTORY
-   ========================================================= */
+/* Directory */
 
 function renderInstitutionList(institutions) {
   if (!listElement) return;
@@ -608,14 +557,10 @@ function renderInstitutionList(institutions) {
     });
   });
 
-  const noun = institutions.length === 1 ? "result" : "results";
+  const noun = institutions.length === 1 ? "mapped pin" : "mapped pins";
 
   if (resultCountElement) {
     resultCountElement.textContent = `${institutions.length} ${noun}`;
-  }
-
-  if (headerCountElement) {
-    headerCountElement.textContent = INSTITUTIONS.length;
   }
 
   if (emptyStateElement) {
@@ -623,9 +568,7 @@ function renderInstitutionList(institutions) {
   }
 }
 
-/* =========================================================
-   MARKERS
-   ========================================================= */
+/* Markers */
 
 function clearMarkers() {
   markers.forEach((marker) => marker.removeFrom(map));
@@ -680,9 +623,7 @@ function renderMarkers(institutions) {
   });
 }
 
-/* =========================================================
-   FILTERS
-   ========================================================= */
+/* Filters */
 
 function applyFilters({ updateMapView = true } = {}) {
   const normalizedSearch = searchTerm.trim().toLowerCase();
@@ -754,9 +695,7 @@ function applyFilters({ updateMapView = true } = {}) {
   });
 }
 
-/* =========================================================
-   PROFILE
-   ========================================================= */
+/* Profile */
 
 function renderProfileDrawer(institution) {
   if (!drawerContent) return;
@@ -968,9 +907,7 @@ function closeProfileDrawer() {
   }
 }
 
-/* =========================================================
-   MAP POSITIONING
-   ========================================================= */
+/* Map */
 
 function focusInstitutionOnVisibleMap(
   institution,
@@ -1008,9 +945,7 @@ function focusInstitutionOnVisibleMap(
   });
 }
 
-/* =========================================================
-   SELECTION
-   ========================================================= */
+/* Selection */
 
 function setSelectedCard(id) {
   document.querySelectorAll(".institution-card").forEach((card) => {
@@ -1061,9 +996,7 @@ function selectInstitution(id) {
     });
 }
 
-/* =========================================================
-   SIDEBAR AND RESET
-   ========================================================= */
+/* Sidebar and reset */
 
 function setSidebarCollapsed(collapsed) {
   if (isMobileLayout()) return;
@@ -1105,9 +1038,7 @@ function resetDirectory() {
   });
 }
 
-/* =========================================================
-   EVENTS
-   ========================================================= */
+/* Events */
 
 searchInput?.addEventListener("input", (event) => {
   searchTerm = event.target.value;
@@ -1161,9 +1092,7 @@ window.addEventListener("resize", () => {
   }
 });
 
-/* =========================================================
-   INITIAL RENDER
-   ========================================================= */
+/* Initial render */
 
 const DATA_URL = "./institutions.json";
 
@@ -1187,7 +1116,6 @@ function showDataLoadError(error) {
   }
 }
 
-
 function renderInitialMapWhenReady(attempt = 0) {
   const startInitialRender = () => {
     const mapContainer = map.getContainer();
@@ -1201,11 +1129,7 @@ function renderInitialMapWhenReady(attempt = 0) {
       return;
     }
 
-    /*
-      Wait for two paint frames after the page grid becomes measurable.
-      This gives Leaflet the final map dimensions before custom div-icon
-      markers are created.
-    */
+    
     window.requestAnimationFrame(() => {
       window.requestAnimationFrame(() => {
         map.invalidateSize({
@@ -1278,20 +1202,7 @@ async function loadInstitutionData() {
   renderTypeLegend();
   renderInstitutionList(INSTITUTIONS);
 
-  if (headerCountElement) {
-    headerCountElement.textContent = INSTITUTIONS.length;
-  }
-
-  /*
-    Leaflet is created before the async JSON request finishes. On some page
-    loads, the grid and map container have not completed their first usable
-    layout when the initial markers are added. Leaflet then positions those
-    marker elements using a stale/zero container size. A later directory
-    action works because it clears and recreates the markers after layout.
-
-    Wait until the map has measurable dimensions, invalidate Leaflet's cached
-    size, and only then perform the first marker render.
-  */
+  
   renderInitialMapWhenReady();
 }
 

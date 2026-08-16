@@ -13,7 +13,6 @@
   <meta name="theme-color" content="#002d66">
 
   <link rel="icon" type="image/jpeg" href="./assets/pbcm-logo.jpg">
-  <link rel="preload" as="image" href="./assets/pbcm-horizontal-logo.jpg">
 
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -34,7 +33,7 @@
     href="https://cdn.maptiler.com/maptiler-sdk-js/v3.9.0/maptiler-sdk.css"
   >
 
-  <link rel="stylesheet" href="./style.css?v=header-brand-refine-1">
+  <link rel="stylesheet" href="./style.css?v=compact-header-directory-tab-1">
 </head>
 
 <body>
@@ -46,45 +45,13 @@
     <a
       class="brand"
       href="./"
-      aria-label="Plant-Based Cities Movement — Lighting Up Canada map"
+      aria-label="Lighting Up Canada map"
     >
-      <span class="brand-logo-wrap">
-        <img
-          class="brand-logo"
-          src="./assets/pbcm-horizontal-logo.jpg"
-          alt="Plant-Based Cities Movement"
-          width="420"
-          height="110"
-          decoding="async"
-        >
-      </span>
-
       <span class="brand-project">
         <strong>Lighting Up Canada</strong>
         <span>Interactive map of plant-based progress</span>
       </span>
     </a>
-
-    <div class="header-actions">
-      <nav class="header-nav" aria-label="Primary navigation">
-        <a
-          class="header-cta"
-          href="https://plantbasedcities.org/pbcm-introduction/"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Visit PBCM
-        </a>
-      </nav>
-
-      <div
-        class="header-count"
-        aria-label="Number of mapped initiatives currently shown"
-      >
-        <strong id="header-count">0</strong>
-        <span>mapped initiatives</span>
-      </div>
-    </div>
   </header>
 
   <main id="directory-app" class="directory-app">
@@ -103,7 +70,7 @@
             class="result-count"
             aria-live="polite"
           >
-            0 results
+            0 mapped pins
           </span>
         </div>
 
@@ -147,11 +114,11 @@
           </button>
 
           <button class="filter-chip" type="button" data-type="city">
-            Municipalities
+            Municipality
           </button>
 
           <button class="filter-chip" type="button" data-type="university">
-            Education
+            Educational
           </button>
 
           <button class="filter-chip" type="button" data-type="hospital">
@@ -212,7 +179,7 @@
 
         <button
           id="sidebar-open"
-          class="directory-pull-tab"
+          class="directory-pull-tab sidebar-open"
           type="button"
           hidden
           aria-label="Open institution directory"
@@ -239,7 +206,6 @@
             </svg>
           </button>
 
-          <div id="legend-content" class="legend-content">
           <div id="legend-content" class="legend-content">
             <div id="type-legend" class="legend-grid legend-type-grid"></div>
           </div>
@@ -279,15 +245,9 @@
       This interactive map requires JavaScript. Please enable JavaScript to explore the directory.
     </div>
   </noscript>
-
-  <!-- Leaflet JavaScript must load before the MapTiler Leaflet plug-in. -->
-  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
-
-  <!-- MapTiler SDK -->
-  <script src="https://cdn.maptiler.com/maptiler-sdk-js/v3.9.0/maptiler-sdk.umd.min.js"></script>
-
-  <!-- Leaflet plugin -->
-  <script src="https://cdn.maptiler.com/leaflet-maptilersdk/v4.1.1/leaflet-maptilersdk.js"></script>
-  <script src="./script.js?v=types-only-legend-1" defer></script>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="https://cdn.maptiler.com/maptiler-sdk-js/v3.9.0/maptiler-sdk.umd.min.js"></script>
+<script src="https://cdn.maptiler.com/leaflet-maptilersdk/v4.1.1/leaflet-maptilersdk.js"></script>
+  <script src="./script.js?v=compact-header-directory-tab-1" defer></script>
 </body>
 </html>

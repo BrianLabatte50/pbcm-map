@@ -1,5 +1,5 @@
 :root {
-  /* PBCM brand guide */
+  
   --pbcm-green: #b3c938;
   --pbcm-yellow: #fcb900;
   --pbcm-gray: #999999;
@@ -9,7 +9,7 @@
   --pbcm-blue: #2ea3f2;
   --pbcm-black: #000000;
 
-  /* Lighting Up Canada night environment */
+  
   --night: #07131f;
   --night-soft: #001f46;
   --night-panel: #0d2c4e;
@@ -39,18 +39,14 @@
   --navy-dark: #001d43;
   --blue: #087bbd;
 
-  /* Institution types: recognizable, high-contrast extensions of PBCM */
+  
   --university: #2ea3f2;
   --hospital: #e66f5d;
   --city: #6f8f00;
   --government: #6f63a8;
   --other: #d28a00;
 
-  /* Progress stages */
-  --stage-outreach: #2ea3f2;
-  --stage-active: #fcb900;
-  --stage-motion: #C43E6D;
-  --stage-implemented: #7e9b12;
+  
 
   --font-primary: "Open Sans", Arial, Helvetica, sans-serif;
   --font-display: "Noto Serif", Georgia, serif;
@@ -119,9 +115,7 @@ a {
   transform: translateY(0);
 }
 
-/* =========================================================
-   HEADER
-   ========================================================= */
+/* Header */
 
 .site-header {
   position: relative;
@@ -160,8 +154,6 @@ a {
   text-overflow: ellipsis;
   white-space: nowrap;
 }
-
-/* Lighting Up Canada heading */
 
 .header-theme {
   min-width: 0;
@@ -205,9 +197,7 @@ a {
   font-size: 15px;
 }
 
-/* =========================================================
-   MAIN LAYOUT
-   ========================================================= */
+/* Main layout */
 
 .directory-app {
   height: calc(100vh - var(--header-height));
@@ -220,9 +210,7 @@ a {
   grid-template-columns: 0 minmax(0, 1fr);
 }
 
-/* =========================================================
-   DIRECTORY SIDEBAR — LIGHT THEME
-   ========================================================= */
+/* Directory */
 
 .results-panel {
   position: relative;
@@ -300,8 +288,6 @@ a {
   border-bottom: 1px solid var(--surface-border);
 }
 
-/* Search */
-
 .search-field {
   position: relative;
   display: block;
@@ -337,8 +323,6 @@ a {
   border-color: var(--blue);
   box-shadow: 0 0 0 2px rgb(31 73 122 / 14%);
 }
-
-/* Filters */
 
 .filter-row {
   display: flex;
@@ -396,8 +380,6 @@ a {
   text-decoration: underline;
 }
 
-/* Institution list */
-
 .institution-list {
   min-height: 0;
   overflow-y: auto;
@@ -436,8 +418,6 @@ a {
   background: #e4edf2;
   box-shadow: inset 4px 0 var(--blue);
 }
-
-/* Shared institution type icons */
 
 .type-icon,
 .card-icon,
@@ -499,41 +479,6 @@ a {
   font-size: 10.5px;
 }
 
-.stage-badge {
-  display: inline-flex;
-  align-items: center;
-  gap: 5px;
-  margin-top: 4px;
-  color: var(--text-muted);
-  font-size: 10px;
-  font-weight: 500;
-}
-
-.stage-badge::before {
-  width: 6px;
-  height: 6px;
-  flex: 0 0 6px;
-  content: "";
-  background: var(--badge-color, var(--stage-outreach));
-  border-radius: 50%;
-}
-
-.stage-outreach {
-  --badge-color: var(--stage-outreach);
-}
-
-.stage-active {
-  --badge-color: var(--stage-active);
-}
-
-.stage-motion-passed {
-  --badge-color: var(--stage-motion);
-}
-
-.stage-implemented {
-  --badge-color: var(--stage-implemented);
-}
-
 .empty-state {
   padding: 24px 14px;
   color: var(--text-muted);
@@ -549,9 +494,7 @@ a {
   font-size: 11px;
 }
 
-/* =========================================================
-   MAP — LIGHTING UP CANADA
-   ========================================================= */
+/* Map */
 
 .map-shell {
   position: relative;
@@ -584,8 +527,6 @@ a {
   font-family: var(--font-primary);
 }
 
-/* Zoom controls */
-
 .leaflet-control-zoom {
   overflow: hidden;
   border: 1px solid rgb(255 255 255 / 14%) !important;
@@ -614,8 +555,6 @@ a {
   background: #132231 !important;
 }
 
-/* Attribution */
-
 .leaflet-control-attribution {
   color: #cbd3da !important;
   background: rgb(10 22 34 / 82%) !important;
@@ -625,8 +564,6 @@ a {
 .leaflet-control-attribution a {
   color: #e2edf3 !important;
 }
-
-/* Marker tooltips */
 
 .institution-tooltip {
   min-width: 170px;
@@ -669,8 +606,6 @@ a {
   font-size: 9.5px;
   line-height: 1.35;
 }
-
-/* Map legend */
 
 .map-legend {
   position: absolute;
@@ -733,36 +668,6 @@ a {
   flex: 0 0 18px;
 }
 
-.stage-dot {
-  width: 7px;
-  height: 7px;
-  flex: 0 0 7px;
-  border-radius: 50%;
-  box-shadow: 0 0 6px currentColor;
-}
-
-.stage-dot.stage-outreach {
-  color: var(--stage-outreach);
-  background: var(--stage-outreach);
-}
-
-.stage-dot.stage-active {
-  color: var(--stage-active);
-  background: var(--stage-active);
-}
-
-.stage-dot.stage-motion-passed {
-  color: var(--stage-motion);
-  background: var(--stage-motion);
-}
-
-.stage-dot.stage-implemented {
-  color: var(--stage-implemented);
-  background: var(--stage-implemented);
-}
-
-/* Collapsed directory button */
-
 .sidebar-open {
   position: absolute;
   z-index: 550;
@@ -785,9 +690,7 @@ a {
   background: #29445b;
 }
 
-/* =========================================================
-   GLOWING MAP MARKERS
-   ========================================================= */
+/* Markers */
 
 .institution-marker-wrapper {
   overflow: visible;
@@ -959,9 +862,7 @@ a {
   }
 }
 
-/* =========================================================
-   PROFILE DRAWER
-   ========================================================= */
+/* Profile drawer */
 
 .profile-drawer {
   position: absolute;
@@ -1015,8 +916,6 @@ a {
 .drawer-close:focus-visible {
   background: var(--surface-soft);
 }
-
-/* Profile content */
 
 .institution-profile {
   min-height: 100%;
@@ -1080,8 +979,6 @@ a {
   line-height: 1.45;
 }
 
-/* Story headline */
-
 .profile-headline {
   margin: 0;
   padding: 19px 20px 17px;
@@ -1093,8 +990,6 @@ a {
   line-height: 1.3;
   letter-spacing: -0.015em;
 }
-
-/* Infographic statistics */
 
 .profile-stat-grid {
   display: grid;
@@ -1185,8 +1080,6 @@ a {
   margin-bottom: 0;
 }
 
-/* At-a-glance details */
-
 .profile-details {
   margin: 0;
   border-top: 1px solid var(--surface-border);
@@ -1213,8 +1106,6 @@ a {
   font-weight: 600;
   text-align: left;
 }
-
-/* Sources */
 
 .profile-resource-list {
   border-top: 1px solid var(--surface-border);
@@ -1253,9 +1144,7 @@ a {
   display: none;
 }
 
-/* =========================================================
-   RESPONSIVE — TABLET
-   ========================================================= */
+/* Responsive tablet */
 
 @media (max-width: 800px) {
   :root {
@@ -1285,9 +1174,7 @@ a {
   }
 }
 
-/* =========================================================
-   RESPONSIVE — MOBILE
-   ========================================================= */
+/* Responsive mobile */
 
 @media (max-width: 680px) {
   :root {
@@ -1389,9 +1276,7 @@ a {
   }
 }
 
-/* =========================================================
-   RESPONSIVE — SMALL MOBILE
-   ========================================================= */
+/* Responsive small mobile */
 
 @media (max-width: 420px) {
   .profile-headline {
@@ -1431,9 +1316,7 @@ a {
   }
 }
 
-/* =========================================================
-   REDUCED MOTION
-   ========================================================= */
+/* Reduced motion */
 
 @media (prefers-reduced-motion: reduce) {
   *,
@@ -1445,12 +1328,6 @@ a {
     animation-iteration-count: 1 !important;
   }
 }
-
-
-/* =========================================================
-   REFINED PBCM BRAND INTEGRATION
-   A restrained, editorial interface around the dark map.
-   ========================================================= */
 
 :root {
   --pbcm-green: #b3c938;
@@ -1495,7 +1372,6 @@ body {
   font-weight: 700;
 }
 
-/* Header: quiet white canvas so the supplied logo feels native. */
 .site-header {
   grid-template-columns: minmax(360px, auto) minmax(260px, 1fr) auto auto;
   gap: 24px;
@@ -1615,7 +1491,6 @@ body {
   font-size: 17px;
 }
 
-/* Sidebar: neutral and editorial, with soft contemporary gradients. */
 .results-panel {
   background: var(--surface);
   border-right: 1px solid var(--surface-border);
@@ -1769,7 +1644,6 @@ body {
     0 0 0 1px rgb(255 255 255 / 35%);
 }
 
-/* Dark map remains the visual anchor. */
 .map-shell,
 .map-frame,
 .leaflet-container {
@@ -1853,7 +1727,6 @@ body {
   background: #24516b;
 }
 
-/* Preserve the illuminated markers, but keep the glow controlled. */
 .marker-glow {
   opacity: .34;
 }
@@ -1881,7 +1754,6 @@ body {
     0 0 30px color-mix(in srgb, var(--type-color) 58%, transparent);
 }
 
-/* Profile drawer: calm paper-like surface with subtle brand cues. */
 .profile-drawer {
   background: #faf9f5;
   border-left: 1px solid #d9d8d0;
@@ -2065,10 +1937,7 @@ body {
   }
 }
 
-
-/* =========================================================
-   FAST PROFILE IMAGE STATES
-   ========================================================= */
+/* Profile image states */
 .profile-image {
   isolation: isolate;
   background:
@@ -2118,9 +1987,7 @@ body {
   }
 }
 
-/* =========================================================
-   HEADER BRAND REFINEMENT — cohesive PBCM hierarchy
-   ========================================================= */
+/* Header */
 .site-header {
   grid-template-columns: minmax(0, 1fr) auto;
   gap: 24px;
@@ -2309,12 +2176,7 @@ body {
   }
 }
 
-
-/* =========================================================
-   LEGEND REPAIR — TABS, TOGGLE, COMPACT SPACING
-   Keeps current map/basemap unchanged and only restores the
-   intended legend control styling and interaction surface.
-   ========================================================= */
+/* Legend */
 .map-legend {
   left: 18px;
   bottom: 18px;
@@ -2480,5 +2342,76 @@ body {
 
   .legend-grid span {
     font-size: 9.5px;
+  }
+}
+
+
+/* Header */
+.site-header {
+  grid-template-columns: minmax(0, 1fr);
+  gap: 0;
+  padding: 0 24px;
+}
+
+.brand {
+  width: 100%;
+  max-width: none;
+  gap: 0;
+}
+
+.brand-project {
+  padding-left: 0;
+  border-left: 0;
+}
+
+.brand-project strong {
+  font-size: 28px;
+  line-height: 1.05;
+  letter-spacing: -0.02em;
+}
+
+.brand-project span {
+  margin-top: 4px;
+  font-size: 10.5px;
+}
+
+/* Directory */
+.sidebar-open {
+  position: absolute;
+  z-index: 900;
+  top: 92px;
+  left: 0;
+  width: 34px;
+  min-width: 34px;
+  height: 64px;
+  min-height: 64px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+  border-left: 0;
+  border-radius: 0 8px 8px 0;
+}
+
+.sidebar-open span {
+  display: none;
+}
+
+.sidebar-open svg {
+  width: 18px;
+  height: 18px;
+}
+
+@media (max-width: 680px) {
+  .brand-project strong {
+    font-size: 23px;
+  }
+
+  .brand-project span {
+    font-size: 9.5px;
+  }
+
+  .sidebar-open {
+    display: none;
   }
 }
