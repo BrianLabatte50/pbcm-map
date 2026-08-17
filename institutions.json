@@ -1526,5 +1526,325 @@
       "source": "https://www.flickr.com/photos/bcgovphotos/55288061129/?utm_source=chatgpt.com",
       "position": "center"
     }
+  },
+  {
+    "id": "trillium-health-partners",
+    "name": "Trillium Health Partners",
+    "shortName": "Trillium Health Partners",
+    "type": "hospital",
+    "city": "Mississauga",
+    "province": "ON",
+    "coordinates": {
+      "lat": 43.5714,
+      "lng": -79.6086
+    },
+    "coordinatesApproximate": true,
+    "stage": "active",
+    "stageLabel": "Initiative documented",
+    "yearImplemented": null,
+    "timeframe": "",
+    "headline": "Trillium Health Partners tests plant-based patient meals",
+    "stats": [],
+    "summary": "A Toronto Academic Health Science Network report says Trillium Health Partners used patient and family taste panels to assess potential plant-based menu items. The implementation status, hospital-site scope, and reported emissions figure require clarification.",
+    "achievements": [
+      "Tested potential plant-based patient meals",
+      "Collected patient and family feedback",
+      "Used feedback to inform future meal offerings"
+    ],
+    "organizationsInvolved": [
+      "Trillium Health Partners",
+      "Toronto Academic Health Science Network"
+    ],
+    "resources": [
+      {
+        "label": "Primary source",
+        "url": "https://tahsn.ca/sites/default/files/assets/resource/document/tahsn-2025-climate-sustainability-report.pdf"
+      }
+    ],
+    "lastUpdated": "2026-08-16",
+    "verified": true,
+    "image": {
+      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Credit_Valley_Hospital_Mississauga_2014.jpg",
+      "kind": "institution",
+      "alt": "ain entrance of Credit Valley Hospital, part of Trillium Health Partners",
+      "credit": "Paul Gierszewski/Wikimedia Commons, CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Credit_Valley_Hospital_Mississauga_2014.jpg",
+      "position": "center"
+    }
+  },
+  {
+    "id": "unity-health-toronto",
+    "name": "Unity Health Toronto",
+    "shortName": "Unity Health Toronto",
+    "type": "hospital",
+    "city": "Toronto",
+    "province": "ON",
+    "coordinates": {
+      "lat": 43.65324,
+      "lng": -79.37777
+    },
+    "coordinatesApproximate": true,
+    "stage": "active",
+    "stageLabel": "Initiative documented",
+    "yearImplemented": null,
+    "timeframe": "1905-07-17",
+    "headline": "Plant-Forward Hospital Menu and Sustainability-Scored Food Tenders",
+    "stats": [],
+    "summary": "Unity Health is pairing plant-forward hospital menus with procurement rules designed to change how food suppliers are selected.",
+    "achievements": [
+      "Is developing a planetary-health menu expected to be plant-forward.",
+      "Is incorporating traditional Indigenous foods into menu planning.",
+      "Is creating food procurement requests that score suppliers for sustainability.",
+      "Is working to improve access for Indigenous food businesses."
+    ],
+    "organizationsInvolved": [],
+    "resources": [
+      {
+        "label": "Primary source",
+        "url": "https://nourishleadership.ca/programs/anchor-cohort/"
+      }
+    ],
+    "lastUpdated": "2026-08-16",
+    "verified": true,
+    "image": {
+      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/St_Joseph%27s_Health_Centre_2006.jpg",
+      "kind": "institution",
+      "alt": "St. Joseph’s Health Centre, part of Unity Health Toronto",
+      "credit": "Nephron/Wikimedia Commons, CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:St_Joseph%27s_Health_Centre_2006.jpg",
+      "position": "center"
+    }
+  },
+  {
+    "id": "fraser-health-authority",
+    "name": "Fraser Health Authority",
+    "shortName": "Fraser Health Authority",
+    "type": "hospital",
+    "city": "Surrey",
+    "province": "BC",
+    "coordinates": {
+      "lat": 49.18963,
+      "lng": -122.84906
+    },
+    "coordinatesApproximate": true,
+    "stage": "active",
+    "stageLabel": "Commitment in progress",
+    "yearImplemented": null,
+    "timeframe": "2024-11-27",
+    "headline": "Health Authority Advances Cool Food and Planetary-Health Menus",
+    "stats": [],
+    "summary": "Fraser Health is combining food-emissions targets, plant-forward menu design and waste reduction across a regional hospital system.",
+    "achievements": [
+      "Signed the Cool Food Pledge for food served at Royal Columbian Hospital.",
+      "Is developing planetary-health menus through a national Nourish cohort.",
+      "Is advancing sustainable food purchasing and improved patient and staff food experiences.",
+      "Is testing choice dining to reduce food waste at Royal Columbian and Surrey Memorial hospitals."
+    ],
+    "organizationsInvolved": [],
+    "resources": [
+      {
+        "label": "Primary source",
+        "url": "https://www.fraserhealth.ca/-/media/Project/FraserHealth/FraserHealth/About-Us/Board-Presentations/FHA-Public-Board-Meeting---Planetary-Health.pdf"
+      }
+    ],
+    "lastUpdated": "2026-08-16",
+    "verified": true,
+    "image": {
+      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Surrey_Memorial_Hospital.jpg",
+      "kind": "institution",
+      "alt": "Surrey Memorial Hospital, operated by Fraser Health",
+      "credit": "PaulaC27/Wikimedia Commons, CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Surrey_Memorial_Hospital.jpg",
+      "position": "center"
+    }
+  },
+  {
+    "id": "cegep-de-rosemont",
+    "name": "Cégep de Rosemont",
+    "shortName": "Cégep de Rosemont",
+    "type": "university",
+    "city": "Montréal",
+    "province": "QC",
+    "coordinates": {
+      "lat": 45.56178,
+      "lng": -73.57021
+    },
+    "coordinatesApproximate": true,
+    "stage": "implemented",
+    "stageLabel": "Implemented",
+    "yearImplemented": 2024,
+    "timeframe": "2024-11-01",
+    "headline": "Carbon Labels Show Vegan Meals Deliver the Lowest Impacts",
+    "stats": [
+      {
+        "value": "More than 80%",
+        "label": "Share of vegetarian and vegan dishes rated A or B for carbon impact"
+      },
+      {
+        "value": "2024",
+        "label": "Year documented"
+      }
+    ],
+    "summary": "Rosemont makes the climate advantage of plant-based meals measurable and visible to its college community.",
+    "achievements": [
+      "Calculated the life-cycle carbon footprint of cafeteria dishes.",
+      "Displays an A-to-E carbon rating directly on meals at food counters.",
+      "Found that every A-rated dish was vegan.",
+      "Reported that more than 80% of vegetarian and vegan dishes earned an A or B rating, while beef dishes occupied the five highest-impact positions."
+    ],
+    "organizationsInvolved": [],
+    "resources": [
+      {
+        "label": "Primary source",
+        "url": "https://www.crosemont.qc.ca/le-cegep/developpement-durable-et-ecocitoyennete/alimentation-durable/"
+      }
+    ],
+    "lastUpdated": "2026-08-16",
+    "verified": true,
+    "image": {
+      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/College-de-rosemont.JPG",
+      "kind": "institution",
+      "alt": "Cégep de Rosemont campus in Montréal",
+      "credit": "Jacques A./Wikimedia Commons, CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:College-de-rosemont.JPG",
+      "position": "center"
+    }
+  },
+  {
+    "id": "cegep-andre-laurendeau",
+    "name": "Cégep André-Laurendeau",
+    "shortName": "Cégep André-Laurendeau",
+    "type": "university",
+    "city": "Montréal",
+    "province": "QC",
+    "coordinates": {
+      "lat": 45.43416,
+      "lng": -73.60577
+    },
+    "coordinatesApproximate": true,
+    "stage": "active",
+    "stageLabel": "Initiative documented",
+    "yearImplemented": null,
+    "timeframe": "1905-07-16",
+    "headline": "Institutional Food Policy Favours Plant-Protein Sources",
+    "stats": [],
+    "summary": "André-Laurendeau has made plant-protein preference an explicit part of institutional food policy.",
+    "achievements": [
+      "Formally commits the college to favouring sources of plant protein.",
+      "Places plant proteins alongside local and seasonal foods in its healthy-lifestyle policy.",
+      "Moves plant-forward food into a durable institutional policy framework.",
+      "Provides a basis for cafeteria purchasing and menu decisions."
+    ],
+    "organizationsInvolved": [],
+    "resources": [
+      {
+        "label": "Primary source",
+        "url": "https://mobiledspace.cdc.qc.ca/xmlui/bitstream/handle/11515/34444/politique-saines-habitudes-vie-andre-laurendeau.pdf?sequence=8"
+      }
+    ],
+    "lastUpdated": "2026-08-16",
+    "verified": true,
+    "image": {
+      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cegep_Andre-Laurendeau_-_49.jpg",
+      "kind": "institution",
+      "alt": "Cégep André-Laurendeau campus in Montréal",
+      "credit": "Jean Gagnon/Wikimedia Commons, CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Cegep_Andre-Laurendeau_-_49.jpg",
+      "position": "center"
+    }
+  },
+  {
+    "id": "college-ahuntsic",
+    "name": "Collège Ahuntsic",
+    "shortName": "Collège Ahuntsic",
+    "type": "university",
+    "city": "Montréal",
+    "province": "QC",
+    "coordinates": {
+      "lat": 45.55184,
+      "lng": -73.6405
+    },
+    "coordinatesApproximate": true,
+    "stage": "implemented",
+    "stageLabel": "Implemented",
+    "yearImplemented": 2024,
+    "timeframe": "2024-11-06",
+    "headline": "Carbon Footprint Published for 40 Popular Cafeteria Dishes",
+    "stats": [
+      {
+        "value": "More than 80%",
+        "label": "Share of vegetarian and vegan dishes rated A or B for carbon impact"
+      },
+      {
+        "value": "2024",
+        "label": "Year documented"
+      }
+    ],
+    "summary": "Ahuntsic has made the climate impact of everyday cafeteria meals transparent and easy for students to compare.",
+    "achievements": [
+      "Assessed 40 popular cafeteria meals using life-cycle carbon calculations.",
+      "Displays the results at food counters and on campus screens.",
+      "Found that all A-rated dishes were vegan.",
+      "Reported that more than 80% of vegetarian and vegan dishes received an A or B."
+    ],
+    "organizationsInvolved": [],
+    "resources": [
+      {
+        "label": "Primary source",
+        "url": "https://www.collegeahuntsic.qc.ca/notre-college/nouvelles/nouveau-projet-de-quantification-de-l-empreinte-carbone-a-la-cafeteria"
+      }
+    ],
+    "lastUpdated": "2026-08-16",
+    "verified": true,
+    "image": {
+      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/College_Ahuntsic_2.jpg",
+      "kind": "institution",
+      "alt": "Panoramic view of Collège Ahuntsic in Montréal",
+      "credit": "Jeangagnon/Wikimedia Commons, CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:College_Ahuntsic_2.jpg",
+      "position": "center"
+    }
+  },
+  {
+    "id": "university-of-waterloo",
+    "name": "University of Waterloo",
+    "shortName": "University of Waterloo",
+    "type": "university",
+    "city": "Waterloo",
+    "province": "ON",
+    "coordinates": {
+      "lat": 43.47229,
+      "lng": -80.54486
+    },
+    "coordinatesApproximate": true,
+    "stage": "active",
+    "stageLabel": "Reviewed initiative",
+    "yearImplemented": null,
+    "timeframe": "",
+    "headline": "Plant-Based Options Included in Campus Food Planning",
+    "stats": [],
+    "summary": "The University of Waterloo includes food systems and vegan options in its sustainability and procurement work. The current record does not contain a measured menu share or reduction target.",
+    "achievements": [
+      "University of Waterloo: food systems increasingly integrated into sustainability planning and procurement with continued expansion of vegan offerings,"
+    ],
+    "organizationsInvolved": [
+      "Canadian University Supported Initiative"
+    ],
+    "resources": [
+      {
+        "label": "Primary source",
+        "url": "https://uwaterloo.ca/food-services/about-us/sustainability"
+      }
+    ],
+    "lastUpdated": "2026-08-16",
+    "verified": true,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/University_of_Waterloo_Stratford_School_Building.jpg/960px-University_of_Waterloo_Stratford_School_Building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "kind": "institution",
+      "alt": "University of Waterloo Stratford Campus",
+      "credit": "University of Waterloo Stratford Campus",
+      "source": "https://commons.wikimedia.org/wiki/File:University_of_Waterloo_Stratford_School_Building.jpg",
+      "position": "center"
+    }
   }
 ]
