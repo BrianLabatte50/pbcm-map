@@ -1846,5 +1846,57 @@
       "source": "https://commons.wikimedia.org/wiki/File:University_of_Waterloo_Stratford_School_Building.jpg",
       "position": "center"
     }
+  },
+  {
+    "id": "university-of-alberta-augustana-campus",
+    "name": "University of Alberta – Augustana Campus",
+    "shortName": "UAlberta Augustana",
+    "type": "university",
+    "city": "Camrose",
+    "province": "AB",
+    "coordinates": {
+      "lat": 53.0116908,
+      "lng": -112.8241688
+    },
+    "coordinatesApproximate": true,
+    "stage": "implemented",
+    "stageLabel": "Implemented",
+    "yearImplemented": null,
+    "timeframe": "",
+    "headline": "Augustana operates a weekday Plant Forward Station",
+    "stats": [],
+    "summary": "The University of Alberta’s Augustana Campus in Camrose operates a Plant Forward Station during weekday lunch and dinner service. The university describes the station as offering a changing selection of menu items that feature plant-based ingredients as the focus.",
+    "achievements": [
+      "Operates a Plant Forward Station at weekday lunch and dinner",
+      "Features a changing selection of dishes focused on plant-based ingredients"
+    ],
+    "organizationsInvolved": [
+      "University of Alberta",
+      "Augustana Campus Dining"
+    ],
+    "resources": [
+      {
+        "label": "Primary source",
+        "url": "https://www.ualberta.ca/en/augustana/student-life/dining/index.html"
+      },
+      {
+        "label": "Secondary source",
+        "url": "https://wagner.augustana.ualberta.ca/menu/"
+      },
+      {
+        "label": "Additional source 1",
+        "url": "https://www.ualberta.ca/en/augustana/campus-info/index.html"
+      }
+    ],
+    "lastUpdated": "2026-08-19",
+    "verified": true,
+    "image": {
+      "url": "https://www.ualberta.ca/en/augustana/media-library/campus-info/banner.jpg",
+      "kind": "institution",
+      "alt": "Brick entrance sign for the University of Alberta’s Augustana Campus surrounded by trees and shrubs.",
+      "credit": "University of Alberta",
+      "source": "https://www.ualberta.ca/en/augustana/campus-info/index.html",
+      "position": "center"
+    }
   }
 ]
