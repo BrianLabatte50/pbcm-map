@@ -1846,5 +1846,109 @@
       "source": "https://commons.wikimedia.org/wiki/File:University_of_Waterloo_Stratford_School_Building.jpg",
       "position": "center"
     }
+  },
+  {
+    "id": "trinity-college-university-of-toronto",
+    "name": "Trinity College, University of Toronto",
+    "shortName": "Trinity College, University of Toronto",
+    "type": "university",
+    "city": "Toronto",
+    "province": "ON",
+    "coordinates": {
+      "lat": 43.66527,
+      "lng": -79.3958
+    },
+    "coordinatesApproximate": true,
+    "stage": "implemented",
+    "stageLabel": "Implemented",
+    "yearImplemented": 2019,
+    "timeframe": "2019-01-14",
+    "headline": "Recurring Meatless Monday Lunches Introduced at Trinity College",
+    "stats": [
+      {
+        "value": "1",
+        "label": "Meatless lunch each week"
+      },
+      {
+        "value": "2019",
+        "label": "Year documented"
+      }
+    ],
+    "summary": "The program moved meatless dining from occasional availability to a named, recurring institutional practice.",
+    "achievements": [
+      "Established a weekly lunch service centred on vegetarian, vegan and plant-protein meals.",
+      "Used the recurring program to test and showcase high-quality meatless dishes in a residential-college setting.",
+      "Linked the initiative to environmental responsibility, health and animal welfare.",
+      "Made lower-impact meals a predictable part of the weekly dining routine."
+    ],
+    "organizationsInvolved": [],
+    "resources": [
+      {
+        "label": "Primary source",
+        "url": "https://www.trinity.utoronto.ca/discover/news/item/trinity-launches-meatless-monday-lunches/"
+      }
+    ],
+    "lastUpdated": "2026-08-20",
+    "verified": true,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Trinity_college_toronto_quad.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+      "kind": "institution",
+      "alt": "Trinity College Toronto",
+      "credit": "Remi Carreiro",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Trinity_college_toronto_quad.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+      "position": "center"
+    }
+  },
+  {
+    "id": "university-of-alberta-augustana-campus",
+    "name": "University of Alberta – Augustana Campus",
+    "shortName": "UAlberta Augustana",
+    "type": "university",
+    "city": "Camrose",
+    "province": "AB",
+    "coordinates": {
+      "lat": 53.0116908,
+      "lng": -112.8241688
+    },
+    "coordinatesApproximate": true,
+    "stage": "implemented",
+    "stageLabel": "Implemented",
+    "yearImplemented": null,
+    "timeframe": "",
+    "headline": "Augustana operates a weekday Plant Forward Station",
+    "stats": [],
+    "summary": "The University of Alberta’s Augustana Campus in Camrose operates a Plant Forward Station during weekday lunch and dinner service. The university describes the station as offering a changing selection of menu items that feature plant-based ingredients as the focus.",
+    "achievements": [
+      "Operates a Plant Forward Station at weekday lunch and dinner",
+      "Features a changing selection of dishes focused on plant-based ingredients"
+    ],
+    "organizationsInvolved": [
+      "University of Alberta",
+      "Augustana Campus Dining"
+    ],
+    "resources": [
+      {
+        "label": "Primary source",
+        "url": "https://www.ualberta.ca/en/augustana/student-life/dining/index.html"
+      },
+      {
+        "label": "Secondary source",
+        "url": "https://wagner.augustana.ualberta.ca/menu/"
+      },
+      {
+        "label": "Additional source 1",
+        "url": "https://www.ualberta.ca/en/augustana/campus-info/index.html"
+      }
+    ],
+    "lastUpdated": "2026-08-20",
+    "verified": true,
+    "image": {
+      "url": "https://www.ualberta.ca/en/augustana/media-library/campus-info/banner.jpg",
+      "kind": "institution",
+      "alt": "Brick entrance sign for the University of Alberta’s Augustana Campus surrounded by trees and shrubs.",
+      "credit": "University of Alberta",
+      "source": "https://www.ualberta.ca/en/augustana/campus-info/index.html",
+      "position": "center"
+    }
   }
 ]
