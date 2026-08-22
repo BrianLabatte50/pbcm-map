@@ -2180,8 +2180,8 @@ body {
 .map-legend {
   left: 18px;
   bottom: 18px;
-  width: 212px;
-  padding: 10px 10px 9px;
+  width: 164px;
+  padding: 10px 9px 9px;
   color: #edf2f5;
   background: linear-gradient(145deg, rgb(16 39 58 / 94%) 0%, rgb(9 28 42 / 94%) 100%);
   border: 1px solid rgb(255 255 255 / 13%);
@@ -2328,8 +2328,8 @@ body {
 
 @media (max-width: 900px) {
   .map-legend {
-    width: 204px;
-    padding: 9px 9px 8px;
+    width: 160px;
+    padding: 9px 8px 8px;
   }
 }
 
@@ -2337,7 +2337,7 @@ body {
   .map-legend {
     left: 10px;
     bottom: 12px;
-    width: 192px;
+    width: 154px;
   }
 
   .legend-grid span {
