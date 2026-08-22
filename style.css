@@ -613,8 +613,8 @@ a {
   left: 16px;
   right: auto;
   bottom: 16px;
-  width: 178px;
-  padding: 10px 11px;
+  width: 150px;
+  padding: 10px 9px;
   color: #edf2f5;
   background: rgba(43, 46, 49, 0.9);
   border: 1px solid rgb(255 255 255 / 14%);
@@ -1170,7 +1170,7 @@ a {
     left: 12px;
     right: auto;
     bottom: 14px;
-    width: 170px;
+    width: 150px;
   }
 }
 
