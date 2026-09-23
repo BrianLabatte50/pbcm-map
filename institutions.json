@@ -125,7 +125,12 @@
     "organizationsInvolved": [
       "Plant-Based Cities Movement-supported initiative, Greener By Default provided workshop and support for managers and staff"
     ],
-    "resources": [],
+    "resources": [
+      {
+        "label": "Primary source",
+        "url": "https://www.saanich.ca/assets/Community/Documents/Planning/sustainability/Climate-Plan-June2026.pdf"
+      }
+    ],
     "lastUpdated": "2026-07-28",
     "verified": true,
     "image": {
@@ -1948,6 +1953,265 @@
       "alt": "Brick entrance sign for the University of Alberta’s Augustana Campus surrounded by trees and shrubs.",
       "credit": "University of Alberta",
       "source": "https://www.ualberta.ca/en/augustana/campus-info/index.html",
+      "position": "center"
+    }
+  },
+  {
+    "id": "lakehead-university",
+    "name": "Lakehead University",
+    "shortName": "Lakehead University",
+    "type": "university",
+    "city": "Thunder Bay",
+    "province": "ON",
+    "coordinates": {
+      "lat": 48.42154,
+      "lng": -89.26166
+    },
+    "coordinatesApproximate": true,
+    "stage": "implemented",
+    "stageLabel": "Implemented",
+    "yearImplemented": 2022,
+    "timeframe": "2022-09-01 | 2030-12-31",
+    "headline": "Residence Dining Connected to a 25% Food-Emissions Reduction Commitment",
+    "stats": [
+      {
+        "value": "25%",
+        "label": "Food-emissions reduction target by 2030 (%)"
+      },
+      {
+        "value": "2022",
+        "label": "Year documented"
+      }
+    ],
+    "summary": "Lakehead links everyday residence meals to a measurable institutional food-emissions target.",
+    "achievements": [
+      "Connected residence dining to Aramark's Cool Food Pledge.",
+      "Supports a commitment to reduce the carbon footprint of food offerings by at least 25% by 2030.",
+      "Includes plant-based food within all-you-care-to-eat residence dining plans.",
+      "Gives students access to meals assessed against recognized lower-carbon criteria."
+    ],
+    "organizationsInvolved": [],
+    "resources": [
+      {
+        "label": "Primary source",
+        "url": "https://www.lakeheadu.ca/about/sustainability/sustainable-building/food"
+      }
+    ],
+    "lastUpdated": "2026-07-06",
+    "verified": true,
+    "image": {
+      "url": "https://www.lakeheadu.ca/sites/default/files/uploads/395/web/journey/fall-2021/On%20the%20Map_Ready%20to%20Grow%20Together%20Photo_Lakehead-U-Aerial%20%28medium%20size%29.jpg",
+      "kind": "institution",
+      "alt": "Aerial view of sprawling university surrounded by green fields and a green roof on one of the buildings.",
+      "credit": "Lakehead University",
+      "source": "https://www.lakeheadu.ca/sites/default/files/uploads/395/web/journey/fall-2021/On%20the%20Map_Ready%20to%20Grow%20Together%20Photo_Lakehead-U-Aerial%20%28medium%20size%29.jpg",
+      "position": "center"
+    }
+  },
+  {
+    "id": "mount-allison-university",
+    "name": "Mount Allison University",
+    "shortName": "Mount Allison",
+    "type": "university",
+    "city": "Sackville",
+    "province": "NB",
+    "coordinates": {
+      "lat": 45.899,
+      "lng": -64.373
+    },
+    "coordinatesApproximate": true,
+    "stage": "implemented",
+    "stageLabel": "Implemented",
+    "yearImplemented": null,
+    "timeframe": "",
+    "headline": "Mount Allison operates a dedicated meat-free dining station",
+    "stats": [],
+    "summary": "Mount Allison’s current dining information describes The Sprout at Jennings Dining Hall as a vegetarian station that has never been touched by meat. University sustainability reporting has also documented a long-running separate vegetarian station and substantial vegetarian and vegan menu availability.",
+    "achievements": [
+      "Mount Allison University operates The Sprout, a fully vegetarian station in Jennings Dining Hall offering rotating Canadian and international dishes. The dedicated station is entirely meat-free and continues to operate under the university’s current dining provider, Chartwells Canada."
+    ],
+    "organizationsInvolved": [
+      "Mount Allison University",
+      "Dining Services"
+    ],
+    "resources": [
+      {
+        "label": "Primary source",
+        "url": "https://mta.ca/life-mta/housing-and-dining/campus-dining"
+      }
+    ],
+    "lastUpdated": "2026-09-17",
+    "verified": true,
+    "image": {
+      "url": "https://mta.ca/sites/default/files/2021-04/Jennings-Hall.jpg",
+      "kind": "dining",
+      "alt": "Students dining in large cafeteria.",
+      "credit": "Mount Allison University",
+      "source": "https://mta.ca/sites/default/files/2021-04/Jennings-Hall.jpg",
+      "position": "center"
+    }
+  },
+  {
+    "id": "queen-s-university",
+    "name": "Queen's University",
+    "shortName": "Queen's University",
+    "type": "university",
+    "city": "Kingston",
+    "province": "ON",
+    "coordinates": {
+      "lat": 44.225,
+      "lng": -76.495
+    },
+    "coordinatesApproximate": true,
+    "stage": "implemented",
+    "stageLabel": "Implemented",
+    "yearImplemented": null,
+    "timeframe": "",
+    "headline": "Queen’s uses plant-forward and Coolfood standards in campus dining",
+    "stats": [
+      {
+        "value": "60",
+        "label": "g maximum animal-based protein per plant-forward serving"
+      }
+    ],
+    "summary": "Queen’s Hospitality Services identifies plant-forward menu items as dishes containing 60 g or less of animal-based protein per serving and marks Coolfood Meals that meet low-climate-impact criteria. Queen’s also states that it works with Aramark and Cool Food to assess the climate impact of menu offerings and uses sustainability-focused menu standards across campus.",
+    "achievements": [
+      "Defined and labels plant-forward menu choices using a 60 g-or-less animal-protein standard",
+      "Identifies Coolfood Meals that meet low-climate-impact criteria",
+      "Assesses menu climate impacts with Aramark and Cool Food"
+    ],
+    "organizationsInvolved": [
+      "Queen's University Hospitality Services",
+      "Aramark",
+      "Cool Food"
+    ],
+    "resources": [
+      {
+        "label": "Primary source",
+        "url": "https://www.queensu.ca/food/special-diet-options"
+      },
+      {
+        "label": "Secondary source",
+        "url": "https://www.queensu.ca/sustainable/act/sustainable-living-series"
+      },
+      {
+        "label": "Additional source 1",
+        "url": "https://www.queensu.ca/food/Guide-Vegetarian-Vegan"
+      }
+    ],
+    "lastUpdated": "2026-09-17",
+    "verified": true,
+    "image": {
+      "url": "https://www.queensu.ca/food/sites/diningwww/files/styles/image_gallery_full/public/2023-11/Rustic%20Roots%20Station%281%29.jpg?itok=LCssH4jR",
+      "kind": "dining",
+      "alt": "Beaming food service worker serving a smiling student at Rustic Roots kiosk.",
+      "credit": "Queens University",
+      "source": "https://www.queensu.ca/food/sites/diningwww/files/styles/image_gallery_full/public/2023-11/Rustic%20Roots%20Station%281%29.jpg?itok=LCssH4jR",
+      "position": "center"
+    }
+  },
+  {
+    "id": "university-of-saskatchewan",
+    "name": "University of Saskatchewan",
+    "shortName": "University of Saskatchewan",
+    "type": "university",
+    "city": "Saskatoon",
+    "province": "SK",
+    "coordinates": {
+      "lat": 52.13321,
+      "lng": -106.63142
+    },
+    "coordinatesApproximate": true,
+    "stage": "implemented",
+    "stageLabel": "Implemented",
+    "yearImplemented": null,
+    "timeframe": "",
+    "headline": "Forward Food Principles Embedded in Everyday Campus Dining",
+    "stats": [],
+    "summary": "The accomplishment is the institutionalization of plant-forward practice within a major residence dining operation.",
+    "achievements": [
+      "Incorporated Forward Food into the university’s stated nutrition and menu-development approach.",
+      "Commits to making vegan and vegetarian proteins readily available, abundant and affordable.",
+      "Treats plant proteins as a routine component of balanced campus dining rather than a niche dietary accommodation.",
+      "Connects menu design with student wellness, affordability and inclusive access."
+    ],
+    "organizationsInvolved": [],
+    "resources": [
+      {
+        "label": "Primary source",
+        "url": "https://culinaryservices.usask.ca/marquis-culinary-centre/nutrition.php"
+      },
+      {
+        "label": "Secondary source",
+        "url": "https://sustainability.usask.ca/sdg-hub/sdg-2-zero-hunger.php#:~:text=Marquis%20Culinary%20Centre%20(MCC)%20and,and%20vegetarian%20options%20available%20daily."
+      }
+    ],
+    "lastUpdated": "2026-09-23",
+    "verified": true,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Saskatchewan-hall-at-university-of-saskatchewan.jpg",
+      "kind": "institution",
+      "alt": "A view of Saskatchewan Hall student residence building on the University of Saskatchewan campus",
+      "credit": "Photo by Canadian2006, CC BY-SA 3.0, Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:Saskatchewan-hall-at-university-of-saskatchewan.jpg",
+      "position": "center"
+    }
+  },
+  {
+    "id": "humber-polytechnic",
+    "name": "Humber Polytechnic",
+    "shortName": "Humber Polytechnic",
+    "type": "university",
+    "city": "Toronto",
+    "province": "ON",
+    "coordinates": {
+      "lat": 43.729144,
+      "lng": -79.606692
+    },
+    "coordinatesApproximate": true,
+    "stage": "active",
+    "stageLabel": "Active",
+    "yearImplemented": 2024,
+    "timeframe": "2024-12-01",
+    "headline": "Humber signed the Forward Food Pledge to expand plant-based meals",
+    "stats": [
+      {
+        "value": "2024",
+        "label": "Year documented"
+      }
+    ],
+    "summary": "Humber Polytechnic reports that it signed the Forward Food Pledge in December 2024 with Humane World for Animals Canada and Chartwells. The institution says the commitment is intended to expand plant-based meal options across campus.",
+    "achievements": [
+      "Signed the Forward Food Pledge in December 2024",
+      "Committed to expanding plant-based meal options on campus"
+    ],
+    "organizationsInvolved": [
+      "Humber Polytechnic",
+      "Humane World for Animals Canada",
+      "Chartwells"
+    ],
+    "resources": [
+      {
+        "label": "Primary source",
+        "url": "https://humber.ca/sustainability/assets/files/measuring-success/stars-reports/2024-2025_Humber_Sustainability_Report_AODA.pdf"
+      },
+      {
+        "label": "Secondary source",
+        "url": "https://humber.ca/staff/announcement?page=50"
+      },
+      {
+        "label": "Additional source 1",
+        "url": "https://humber.ca/sustainability/assets/files/enable/food-procurement/2023%20Food%20Strategy%20Report%20FINAL.pdf"
+      }
+    ],
+    "lastUpdated": "2026-08-20",
+    "verified": true,
+    "image": {
+      "url": "https://humber.ca/today/sites/default/files/styles/970x546/public/uploads/images/hero/HCH%20Drone%202024.JPG?itok=BGaoHOwn",
+      "kind": "institution",
+      "alt": "A view of Humber Polytechnic's modern white buildings. Lower buildings feature green roofs.",
+      "credit": "Humber Polytechnic",
+      "source": "https://humber.ca/today/sites/default/files/styles/970x546/public/uploads/images/hero/HCH%20Drone%202024.JPG?itok=BGaoHOwn",
       "position": "center"
     }
   }
