@@ -207,7 +207,7 @@
     "stage": "active",
     "stageLabel": "Commitment in progress",
     "yearImplemented": 2019,
-    "timeframe": "1905-07-11 | 2030-12-31",
+    "timeframe": "2030-12-31",
     "headline": "City Food Procurement Tied to a 25% Emissions-Reduction Goal",
     "stats": [
       {
@@ -973,7 +973,7 @@
     "stage": "implemented",
     "stageLabel": "Implemented",
     "yearImplemented": null,
-    "timeframe": "1905-07-12 | 2030-12-31",
+    "timeframe": "2030-12-31",
     "headline": "Plant-Based Baseline Established and 50% Menu Goal Set for 2030",
     "stats": [
       {
@@ -1451,8 +1451,8 @@
     "coordinatesApproximate": true,
     "stage": "implemented",
     "stageLabel": "Implemented",
-    "yearImplemented": 2015,
-    "timeframe": "1905-07-17 | 2030-12-31",
+    "yearImplemented": 2021,
+    "timeframe": "2030-12-31",
     "headline": "Patient-Approved Plant-Forward Recipes Support a 25% Emissions Goal",
     "stats": [
       {
@@ -1460,7 +1460,7 @@
         "label": "Food-emissions reduction target by 2030 (%)"
       },
       {
-        "value": "2015",
+        "value": "2021",
         "label": "Year documented"
       }
     ],
@@ -1592,7 +1592,7 @@
     "stage": "active",
     "stageLabel": "Initiative documented",
     "yearImplemented": null,
-    "timeframe": "1905-07-17",
+    "timeframe": "",
     "headline": "Plant-Forward Hospital Menu and Sustainability-Scored Food Tenders",
     "stats": [],
     "summary": "Unity Health is pairing plant-forward hospital menus with procurement rules designed to change how food suppliers are selected.",
@@ -1730,7 +1730,7 @@
     "stage": "active",
     "stageLabel": "Initiative documented",
     "yearImplemented": null,
-    "timeframe": "1905-07-16",
+    "timeframe": "",
     "headline": "Institutional Food Policy Favours Plant-Protein Sources",
     "stats": [],
     "summary": "André-Laurendeau has made plant-protein preference an explicit part of institutional food policy.",
