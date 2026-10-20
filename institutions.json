@@ -553,6 +553,10 @@
       {
         "label": "Primary source",
         "url": "https://www.vch.ca/en/news/vancouver-general-hospital-pilots-new-plant-rich-menu-items-health-patients-and-planet"
+      },
+      {
+        "label": "Secondary source",
+        "url": "https://www.thelancet.com/journals/lanplh/article/PIIS2542-5196(26)00056-2/fulltext"
       }
     ],
     "lastUpdated": "2026-07-06",
@@ -1481,7 +1485,7 @@
     "lastUpdated": "2026-07-28",
     "verified": true,
     "image": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/St._Joseph%27s_Hospital_-_268_Grosvenor_St._%2814796012639%29.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/St._Joseph%27s_Hospital_-_268_Grosvenor_St._%2814796012639%29.jpghttps://www.sjhc.london.on.ca/sites/default/files/styles/masonry_thumbnail/public/images/2020-07/sjh_exterior_from_garage_1500.jpg?h=f7f194af&itok=y9c253vG",
       "kind": "institution",
       "alt": "Historical view of St. Joseph’s Hospital in London, Ontario, in 1964",
       "credit": "Congregation of the Sisters of St. Joseph in Canada Archives, via Wikimedia Commons; no known copyright restrictions",
@@ -2212,6 +2216,165 @@
       "alt": "A view of Humber Polytechnic's modern white buildings. Lower buildings feature green roofs.",
       "credit": "Humber Polytechnic",
       "source": "https://humber.ca/today/sites/default/files/styles/970x546/public/uploads/images/hero/HCH%20Drone%202024.JPG?itok=BGaoHOwn",
+      "position": "center"
+    }
+  },
+  {
+    "id": "chu-sainte-justine",
+    "name": "CHU Sainte-Justine",
+    "shortName": "CHU Sainte-Justine",
+    "type": "hospital",
+    "city": "Montréal",
+    "province": "QC",
+    "coordinates": {
+      "lat": 45.5048,
+      "lng": -73.6203
+    },
+    "coordinatesApproximate": true,
+    "stage": "implemented",
+    "stageLabel": "Menu change documented",
+    "yearImplemented": 2021,
+    "timeframe": "",
+    "headline": "CHU Sainte-Justine adds vegetarian and vegan dishes and reduces meat-based dishes",
+    "stats": [
+      {
+        "value": "2021",
+        "label": "Year documented"
+      }
+    ],
+    "summary": "The hospital reports revising patient and food-service menus and adding vegetarian and vegan recipes made with legumes, tofu, tempeh, seitan and textured vegetable protein.",
+    "achievements": [
+      "Reduced meat-based dishes<br>Added vegetarian and vegan recipes with varied plant proteins<br>Published a standardized institutional plant-protein recipe collection"
+    ],
+    "organizationsInvolved": [
+      "Ministère de l'Agriculture, des Pêcheries et de l'Alimentation (MAPAQ)",
+      "CISSS de l'Outaouais",
+      "CIUSSS Centre-Sud-de-l'Île-de-Montréal",
+      "CHUM",
+      "Hôpital Maisonneuve-Rosemont"
+    ],
+    "resources": [
+      {
+        "label": "Primary source",
+        "url": "https://www.chusj.org/CORPO/files/63/63127cf1-1811-4ed1-aa27-a5c12bbcede0.pdf"
+      },
+      {
+        "label": "Secondary source",
+        "url": "https://www.chusj.org/CORPO/files/88/88755145-a143-4088-bf7c-1a58ccd0bffc.pdf"
+      }
+    ],
+    "lastUpdated": "2026-09-25",
+    "verified": true,
+    "image": {
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLnWY9jZ9XGjj6gkzFfeu39B4Z7k3clSm7Pwzz10_RHXyGDoSA0wHc1Bg&s=10",
+      "kind": "institution",
+      "alt": "Aerial view of a large hospital complex featuring interconnected multistorey buildings, parking areas, and surrounding streets, with residential neighbourhoods and green spaces in the background.",
+      "credit": "Chu Sainte Justine",
+      "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLnWY9jZ9XGjj6gkzFfeu39B4Z7k3clSm7Pwzz10_RHXyGDoSA0wHc1Bg&s=10",
+      "position": "center"
+    }
+  },
+  {
+    "id": "ciusss-centre-sud-de-l-ile-de-montreal",
+    "name": "CIUSSS Centre-Sud-de-l'Île-de-Montréal",
+    "shortName": "CIUSSS Centre-Sud-de-l'Île-de-Montréal",
+    "type": "hospital",
+    "city": "Montréal",
+    "province": "QC",
+    "coordinates": {
+      "lat": 45.523,
+      "lng": -73.561
+    },
+    "coordinatesApproximate": true,
+    "stage": "implemented",
+    "stageLabel": "Menu item documented",
+    "yearImplemented": 2022,
+    "timeframe": "",
+    "headline": "CIUSSS Centre-Sud includes lentil dish in harmonized summer menu",
+    "stats": [
+      {
+        "value": "2022",
+        "label": "Year documented"
+      }
+    ],
+    "summary": "The CIUSSS identifies lentil-stuffed rolls as a recipe in its harmonized summer 2022 menu and reports work to increase plant proteins.",
+    "achievements": [
+      "Included lentil-stuffed rolls in harmonized summer 2022 menu<br>Worked with ITHQ to increase plant proteins on the menu<br>Contributed recipes to Quebec institutional collection"
+    ],
+    "organizationsInvolved": [
+      "Ministère de l'Agriculture, des Pêcheries et de l'Alimentation (MAPAQ)",
+      "CHU Sainte-Justine (lead author)"
+    ],
+    "resources": [
+      {
+        "label": "Primary source",
+        "url": "https://ciusss-centresudmtl.gouv.qc.ca/actualite/decouvrez-les-initiatives-en-alimentation-durable-des-services-alimentaires-du-ccsmtl"
+      },
+      {
+        "label": "Secondary source",
+        "url": "https://www.chusj.org/CORPO/files/88/88755145-a143-4088-bf7c-1a58ccd0bffc.pdf"
+      }
+    ],
+    "lastUpdated": "2026-09-25",
+    "verified": true,
+    "image": {
+      "url": "https://www.narcity.com/media-library/image.jpg?id=26006623&width=1245&height=700&quality=50&coordinates=19%2C0%2C19%2C0",
+      "kind": "institution",
+      "alt": "Exterior view of a large, multistorey red-brick institutional building featuring Art Deco architectural details, a green copper pyramidal roof, and small balconies, with a modern glass-fronted entrance in the foreground.",
+      "credit": "CIUSSS Centre",
+      "source": "https://www.narcity.com/media-library/image.jpg?id=26006623&width=1245&height=700&quality=50&coordinates=19%2C0%2C19%2C0",
+      "position": "center"
+    }
+  },
+  {
+    "id": "centre-hospitalier-de-l-universite-de-montreal-chum",
+    "name": "Centre hospitalier de l'Université de Montréal (CHUM)",
+    "shortName": "CHUM",
+    "type": "hospital",
+    "city": "Montréal",
+    "province": "QC",
+    "coordinates": {
+      "lat": 45.5122,
+      "lng": -73.5605
+    },
+    "coordinatesApproximate": true,
+    "stage": "implemented",
+    "stageLabel": "Measured menu change",
+    "yearImplemented": 2026,
+    "timeframe": "2026-01-13",
+    "headline": "CHUM expands vegetarian and vegan menus in 2026",
+    "stats": [
+      {
+        "value": "2026",
+        "label": "Year documented"
+      }
+    ],
+    "summary": "CHUM introduced revised menus on January 13, 2026. Its reported 2025–26 comparison shows fewer beef/pork meals, more vegetarian patient meals and a larger vegetarian cafeteria offering.",
+    "achievements": [
+      "Beef/pork-containing meals decreased 12% in CHUM analysis<br>Vegetarian patient meals increased 3%<br>Vegetarian cafeteria offering increased 27%, with a reported 13% vegan component<br>Reformulated beef chili with textured vegetable protein"
+    ],
+    "organizationsInvolved": [
+      "Ministère de l'Agriculture, des Pêcheries et de l'Alimentation (MAPAQ)",
+      "CHU Sainte-Justine (lead author)"
+    ],
+    "resources": [
+      {
+        "label": "Primary source",
+        "url": "https://communassiette.org/histoires-inspirantes/davantage-de-proteines-vegetales-dans-les-menus-du-chum/"
+      },
+      {
+        "label": "Secondary source",
+        "url": "https://www.chusj.org/CORPO/files/88/88755145-a143-4088-bf7c-1a58ccd0bffc.pdf"
+      }
+    ],
+    "lastUpdated": "2026-09-25",
+    "verified": true,
+    "image": {
+      "url": "https://impatients.ca/wp-content/uploads/2025/06/chum-montreal.png",
+      "kind": "other",
+      "alt": "CHUM (Centre hospitalier de l’Université de Montréal) logo, featuring three vertical light-blue bars above a horizontal bar, with the acronym “CHUM” in bold dark-blue letters below.",
+      "credit": "CHUM",
+      "source": "https://impatients.ca/wp-content/uploads/2025/06/chum-montreal.png",
       "position": "center"
     }
   }
