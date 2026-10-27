@@ -836,23 +836,25 @@
         "label": "Food-emissions reduction target by 2030 (%)"
       }
     ],
-    "summary": "UBC adopted climate-friendly food-system procurement guidelines under its Climate Action Plan 2030. The guidelines support a university target to reduce food-system greenhouse-gas emissions by 50% by 2030, including reductions in ruminant meat and dairy purchases and increased use of climate-friendly alternatives.",
+    "summary": "UBC Vancouver aims to reduce food-related GHG emissions by 50% by 2030. UBC Food Services has separately reported that 55% of food in its dining halls was plant-based, alongside an 80% goal for 2025; the latter has not been verified as achieved.",
     "achievements": [
-      "Adopted climate-friendly food-system procurement guidelines for campus food providers.",
-      "Set a target to reduce food-system greenhouse-gas emissions by 50% by 2030.",
-      "Directed providers to establish baselines and reduction targets for ruminant meat and dairy purchases.",
-      "Promoted substitutions with climate-friendly alternatives, including plant-based milk and lower-carbon menu options."
+      "Food-emissions reduction target of 50% by 2030.",
+      "Historical UBC Vancouver dining-hall figure: 55% of food plant-based (reported by 2023/2024); 80% by 2025 was a goal, not a verified result."
     ],
     "organizationsInvolved": [
-      "Canadian University"
+      "Canadian University Inititative"
     ],
     "resources": [
       {
         "label": "Primary source",
         "url": "https://planning.ubc.ca/sustainability/sustainability-action-plans/climate-action-plan-2030/food-systems/climate-friendly-food-systems-procurement-guidelines"
+      },
+      {
+        "label": "Secondary source",
+        "url": "https://food.ubc.ca/planting-for-a-sustainable-future/"
       }
     ],
-    "lastUpdated": "2026-07-06",
+    "lastUpdated": "2026-10-27",
     "verified": true,
     "image": {
       "url": "https://images.spaicelabs.com/images/flus6j8v/production/fbb07b3efe502c9f5f53301aee35738e9f3531f9-1920x1080.jpg?rect=420%2C0%2C1080%2C1080&w=1600&fm=webp&q=72&fit=max",
@@ -879,27 +881,32 @@
     "stageLabel": "Reviewed initiative",
     "yearImplemented": null,
     "timeframe": "",
-    "headline": "Plant-Based Defaults Planned for 60% of Campus Menus",
+    "headline": "UVic Aims for Plant-Based Defaults on 60% of Menus",
     "stats": [
       {
         "value": "60%",
         "label": "Campus menus with plant-based defaults by 2030 (%)"
       }
     ],
-    "summary": "UVic’s Climate and Sustainability Action Plan targets plant-based defaults on 60% of campus menus by 2030 and a 50% reduction in food-related greenhouse-gas emissions.",
+    "summary": "UVic targets plant-based defaults on 60% of campus menus by 2030. It separately reports that plant-based food expenditure increased from 11.5% in 2020 to 29.2% in 2023. The achieved expenditure share must not be confused with the menu-default target.",
     "achievements": [
-      "UVic: Climate and Sustainability Action Plan 2030 targets a 50% reduction in food-related GHG emissions and plant-based defaults on 60% of campus menus by 2030 (p. 15)."
+      "Target: plant-based default on 60% of campus menus by 2030.",
+      "Historical measured change: plant-based food expenditures rose from 11.5% (2020) to 29.2% (2023)."
     ],
     "organizationsInvolved": [
-      "Canadian University Supported Initiative"
+      "Canadian University Initiative"
     ],
     "resources": [
       {
         "label": "Primary source",
         "url": "https://www.uvic.ca/_assets/docs/csap2030-actions.pdf"
+      },
+      {
+        "label": "Secondary source",
+        "url": "https://www.uvic.ca/sustainability/topics/dining/fresh-local-plant-based-food/index.php"
       }
     ],
-    "lastUpdated": "2026-07-07",
+    "lastUpdated": "2026-10-27",
     "verified": true,
     "image": {
       "url": "https://www.uvic.ca/_assets/images/cards/storygrid/campus-trees_0710241010_520x346-260x173.webp",
@@ -1076,34 +1083,32 @@
     "coordinatesApproximate": true,
     "stage": "active",
     "stageLabel": "Commitment in progress",
-    "yearImplemented": 2022,
-    "timeframe": "2022-08-01",
-    "headline": "Additional 20% of Campus Menus Committed to Plant-Based Food",
+    "yearImplemented": null,
+    "timeframe": "",
+    "headline": "Plant-Based Offerings Reach 61% at U of T St. George",
     "stats": [
       {
-        "value": "20%",
-        "label": "Additional menus committed to plant-based food (%)"
-      },
-      {
-        "value": "2022",
-        "label": "Year documented"
+        "value": "61%",
+        "label": "Share of menu offerings that are plant-based (%)"
       }
     ],
-    "summary": "The pledge established a measurable expansion commitment at one of Canada’s largest university campuses.",
+    "summary": "St. George Food Services reports 61% plant-based offerings across its menus, up from 40%, following its Forward Food pledge. The 61% figure was already publicly reported in late 2023/early 2024 and remains displayed on the 2026 sustainability page.",
     "achievements": [
-      "Signed the Forward Food Pledge after intensive plant-based culinary training for campus chefs.",
-      "Committed to converting an additional 20% of campus menus to plant-based offerings, beyond the existing baseline.",
-      "Built staff capacity to produce appealing, culturally diverse and scalable plant-based meals.",
-      "Connected menu transformation with the university’s broader sustainability and food-emissions work."
+      "Plant-based menu offerings increased from 40% to 61% (+21 percentage points).",
+      "Forward Food plant-based menu expansion commitment achieved."
     ],
     "organizationsInvolved": [],
     "resources": [
       {
         "label": "Primary source",
-        "url": "https://spacesandexperiences.utoronto.ca/food-beverage/plant-based-momentum-at-the-st-george-campus/"
+        "url": "https://foodservices.utoronto.ca/sustainability/"
+      },
+      {
+        "label": "Secondary source",
+        "url": "https://onlineacademiccommunity.uvic.ca/defaultveg/2024/03/07/canadian-universities-aim-to-boost-plant-based-options-on-menus-in-2024-to-meet-student-demand/"
       }
     ],
-    "lastUpdated": "2026-07-02",
+    "lastUpdated": "2026-10-26",
     "verified": true,
     "image": {
       "url": "https://spacesandexperiences.utoronto.ca/wp-content/uploads/2022/09/ForwardFood-JS-Aug2022_47-1024x683.jpg",
@@ -1142,7 +1147,7 @@
       "Western University: residence dining services report that approximately 46% of menu offerings within the residence dining cycle are plant-based"
     ],
     "organizationsInvolved": [
-      "Canadian University Supported Initiative"
+      "Canadian University Initiative"
     ],
     "resources": [
       {
@@ -1268,19 +1273,16 @@
     "stageLabel": "Implemented",
     "yearImplemented": null,
     "timeframe": "",
-    "headline": "Vegetarian Majority Menu Target Achieved",
+    "headline": "60% of York University Food Services Menus Are Plant-Forward",
     "stats": [
       {
         "value": "60%",
-        "label": "Menus targeted to be vegetarian (%)"
+        "label": "Share of menus described as plant-forward (%)"
       }
     ],
-    "summary": "York’s achievement demonstrates rapid, measurable protein diversification across institutional menus.",
+    "summary": "York University Food Services reports 60% of its menus are plant-forward, on a sustainability page updated June 2026.",
     "achievements": [
-      "Set a goal for at least 60% of menus to be vegetarian.",
-      "Required at least half of those vegetarian selections to be fully vegan.",
-      "Redesigned Chef’s Table offerings around culturally diverse plant-based dishes.",
-      "Reportedly reached the target within roughly one year of implementation."
+      "60% of menus reported as plant-forward (June 2026 update)."
     ],
     "organizationsInvolved": [],
     "resources": [
@@ -1289,7 +1291,7 @@
         "url": "https://www.yorku.ca/foodservices/nutrition-tips/sustainability/"
       }
     ],
-    "lastUpdated": "2026-07-14",
+    "lastUpdated": "2026-10-27",
     "verified": true,
     "image": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Vari_Hall.jpg",
@@ -1830,11 +1832,17 @@
     "stageLabel": "Reviewed initiative",
     "yearImplemented": null,
     "timeframe": "",
-    "headline": "Plant-Based Options Included in Campus Food Planning",
-    "stats": [],
-    "summary": "The University of Waterloo includes food systems and vegan options in its sustainability and procurement work. The current record does not contain a measured menu share or reduction target.",
+    "headline": "Waterloo Reports 31% Plant-Based Menu Offerings in 2025",
+    "stats": [
+      {
+        "value": "31%",
+        "label": "Plant-based share of menu offerings (%)"
+      }
+    ],
+    "summary": "University of Waterloo Food Services sustainability timeline reports 31% plant-based menu offerings in 2025 (also 31% in 2024). Its main sustainability page describes 31% plant-based food purchases in 2025, a different metric.",
     "achievements": [
-      "University of Waterloo: food systems increasingly integrated into sustainability planning and procurement with continued expansion of vegan offerings,"
+      "31% plant-based menu offerings in 2025.",
+      "Separately: 31% plant-based food purchases in 2025 as reported on main sustainability page."
     ],
     "organizationsInvolved": [
       "Canadian University Supported Initiative"
@@ -1842,10 +1850,14 @@
     "resources": [
       {
         "label": "Primary source",
+        "url": "https://uwaterloo.ca/food-services/sustainability-timeline"
+      },
+      {
+        "label": "Secondary source",
         "url": "https://uwaterloo.ca/food-services/about-us/sustainability"
       }
     ],
-    "lastUpdated": "2026-08-16",
+    "lastUpdated": "2026-10-27",
     "verified": true,
     "image": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/University_of_Waterloo_Stratford_School_Building.jpg/960px-University_of_Waterloo_Stratford_School_Building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -2071,16 +2083,17 @@
     "stageLabel": "Implemented",
     "yearImplemented": null,
     "timeframe": "",
-    "headline": "Queen’s uses plant-forward and Coolfood standards in campus dining",
+    "headline": "53% of Queen’s residence dining hall recipes were vegetarian or vegan (2024–25)",
     "stats": [
       {
-        "value": "60",
-        "label": "g maximum animal-based protein per plant-forward serving"
+        "value": "53%",
+        "label": "% of recipes used in residence dining halls that were vegetarian or vegan"
       }
     ],
-    "summary": "Queen’s Hospitality Services identifies plant-forward menu items as dishes containing 60 g or less of animal-based protein per serving and marks Coolfood Meals that meet low-climate-impact criteria. Queen’s also states that it works with Aramark and Cool Food to assess the climate impact of menu offerings and uses sustainability-focused menu standards across campus.",
+    "summary": "In 2024–2025, 53% of recipes used in Queen’s University residence dining halls were vegetarian or vegan. Separately, Queen’s Hospitality Services identifies plant-forward options using a standard of no more than 60 g of animal-based protein per serving and labels qualifying low-climate-impact Coolfood Meals.",
     "achievements": [
-      "Defined and labels plant-forward menu choices using a 60 g-or-less animal-protein standard",
+      "53% of residence dining hall recipes were vegetarian or vegan in 2024–2025",
+      "Defines and labels plant-forward menu choices using a 60 g-or-less animal-protein standard",
       "Identifies Coolfood Meals that meet low-climate-impact criteria",
       "Assesses menu climate impacts with Aramark and Cool Food"
     ],
@@ -2103,7 +2116,7 @@
         "url": "https://www.queensu.ca/food/Guide-Vegetarian-Vegan"
       }
     ],
-    "lastUpdated": "2026-09-17",
+    "lastUpdated": "2026-10-27",
     "verified": true,
     "image": {
       "url": "https://www.queensu.ca/food/sites/diningwww/files/styles/image_gallery_full/public/2023-11/Rustic%20Roots%20Station%281%29.jpg?itok=LCssH4jR",
@@ -2382,6 +2395,66 @@
       "alt": "CHUM (Centre hospitalier de l’Université de Montréal) logo, featuring three vertical light-blue bars above a horizontal bar, with the acronym “CHUM” in bold dark-blue letters below.",
       "credit": "CHUM",
       "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT5TAYrd_NUV_PAoavREqRPF3ndlZadKeIaS7PF6bVVw&s=10",
+      "position": "center"
+    }
+  },
+  {
+    "id": "universite-de-montreal",
+    "name": "Université de Montréal",
+    "shortName": "Université de Montréal",
+    "type": "university",
+    "city": "Montréal",
+    "province": "QC",
+    "coordinates": {
+      "lat": 45.50291,
+      "lng": -73.61549
+    },
+    "coordinatesApproximate": true,
+    "stage": "implemented",
+    "stageLabel": "Implemented",
+    "yearImplemented": 2024,
+    "timeframe": "",
+    "headline": "Over 60% of Université de Montréal Meals Feature Plant-Based Proteins",
+    "stats": [
+      {
+        "value": "60%",
+        "label": "% of meals featuring plant-based proteins (more than 60%; threshold, not exact share)"
+      },
+      {
+        "value": "2024",
+        "label": "Year documented"
+      }
+    ],
+    "summary": "Université de Montréal reports that more than 60% of meals feature plant-based proteins and more than 60% of its food ingredients by weight are plant-based (including vegan and vegetarian, based on 2024 data). Its Local Local food-services program has measured the carbon footprint of food purchases and provides dish-level carbon-footprint information, including at Café La Planck.",
+    "achievements": [
+      "More than 60% of meals feature plant-based proteins (2024; includes vegan and vegetarian meals)",
+      "More than 60% of ingredients by weight are plant-based (2024)",
+      "Quantified carbon footprint of all food purchases and established a GHG reduction plan",
+      "Completed its first audited institutional carbon footprint assessment",
+      "Introduced dish-level carbon-footprint information for Café La Planck"
+    ],
+    "organizationsInvolved": [
+      "Université de Montréal",
+      "Local Local"
+    ],
+    "resources": [
+      {
+        "label": "Primary source",
+        "url": "https://durable.umontreal.ca/empreinte-carbone/empreinte-carbone-des-services-alimentaires/"
+      },
+      {
+        "label": "Secondary source",
+        "url": "https://durable.umontreal.ca/fileadmin/durable/documents/PADD_2024-2029_UdeM_VF.pdf"
+      }
+    ],
+    "lastUpdated": "2026-10-27",
+    "verified": true,
+    "image": {
+      "url": "https://www.umontreal.ca/public/www/images/Les_Campus/campus_Montagne.jpg",
+      "kind": "institution",
+      "alt": "Aerial view of the Université de Montréal campus.",
+      "credit": "Université de Montréal",
+      "source": "https://www.umontreal.ca/public/www/images/Les_Campus/campus_Montagne.jpg",
       "position": "center"
     }
   }
