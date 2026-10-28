@@ -666,7 +666,7 @@
     "lastUpdated": "2026-07-07",
     "verified": true,
     "image": {
-      "url": "https://www.concordia.ca/content/concordia/en/web/design/study/_jcr_content/content-main/grid_container/grid-container-parsys/image_48579862.img.jpg/1781620981652.jpg",
+      "url": "https://www.concordia.ca/news/stories/2018/06/07/3-global-rankings-confirm-concordias-place-among-the-worlds-leading-institutions/_jcr_content/top-image.img.768.medium.jpg/1536174173428.jpg",
       "kind": "campus",
       "alt": "Concordia University buildings in downtown Montréal",
       "credit": "Concordia University",
@@ -836,25 +836,24 @@
         "label": "Food-emissions reduction target by 2030 (%)"
       }
     ],
-    "summary": "UBC Vancouver aims to reduce food-related GHG emissions by 50% by 2030. UBC Food Services has separately reported that 55% of food in its dining halls was plant-based, alongside an 80% goal for 2025; the latter has not been verified as achieved.",
+    "summary": "UBC adopted Climate-Friendly Food System Procurement Guidelines under its Climate Action Plan 2030, supporting a target to reduce food-system greenhouse gas emissions by 50% by 2030. The guidelines prioritize reducing ruminant meat and dairy purchases and increasing the use of climate-friendly alternatives. UBC Food Services reports that 55% of food served in its campus dining halls is plant-based.",
     "achievements": [
-      "Food-emissions reduction target of 50% by 2030.",
-      "Historical UBC Vancouver dining-hall figure: 55% of food plant-based (reported by 2023/2024); 80% by 2025 was a goal, not a verified result."
+      "Reports 55% of dining hall menu options are plant-based.",
+      "Adopted climate-friendly food-system procurement guidelines for campus food providers.",
+      "Set a target to reduce food-system greenhouse-gas emissions by 50% by 2030.",
+      "Directed providers to establish baselines and reduction targets for ruminant meat and dairy purchases.",
+      "Promoted substitutions with climate-friendly alternatives, including plant-based milk and lower-carbon menu options."
     ],
     "organizationsInvolved": [
-      "Canadian University Inititative"
+      "Canadian University"
     ],
     "resources": [
       {
         "label": "Primary source",
         "url": "https://planning.ubc.ca/sustainability/sustainability-action-plans/climate-action-plan-2030/food-systems/climate-friendly-food-systems-procurement-guidelines"
-      },
-      {
-        "label": "Secondary source",
-        "url": "https://food.ubc.ca/planting-for-a-sustainable-future/"
       }
     ],
-    "lastUpdated": "2026-10-27",
+    "lastUpdated": "2026-07-06",
     "verified": true,
     "image": {
       "url": "https://images.spaicelabs.com/images/flus6j8v/production/fbb07b3efe502c9f5f53301aee35738e9f3531f9-1920x1080.jpg?rect=420%2C0%2C1080%2C1080&w=1600&fm=webp&q=72&fit=max",
@@ -888,10 +887,13 @@
         "label": "Campus menus with plant-based defaults by 2030 (%)"
       }
     ],
-    "summary": "UVic targets plant-based defaults on 60% of campus menus by 2030. It separately reports that plant-based food expenditure increased from 11.5% in 2020 to 29.2% in 2023. The achieved expenditure share must not be confused with the menu-default target.",
+    "summary": "UVic’s Climate and Sustainability Action Plan sets targets to implement plant-based defaults on 60% of campus menus and reduce food-related greenhouse gas emissions by 50% by 2030. The university also reports that plant-based food expenditure increased from 11.5% in 2020 to 29.2% in 2023.",
     "achievements": [
-      "Target: plant-based default on 60% of campus menus by 2030.",
-      "Historical measured change: plant-based food expenditures rose from 11.5% (2020) to 29.2% (2023)."
+      "Increased plant-based food expenditure from 11.5% in 2020 to 29.2% in 2023.",
+      "Implemented plant-based defaults for select food-service offerings, including plant-based milk.",
+      "Set a target to implement plant-based defaults on 60% of campus menus by 2030.",
+      "Committed to reducing food-related greenhouse gas emissions by 50% by 2030, relative to a 2019 baseline.",
+      "Integrated plant-based dining and sustainable food procurement into its Climate and Sustainability Action Plan."
     ],
     "organizationsInvolved": [
       "Canadian University Initiative"
