@@ -1340,19 +1340,24 @@
     ],
     "summary": "The achievement connects residence menus to a recognized, measurable climate target rather than relying only on sustainability messaging.",
     "achievements": [
-      "Applies Aramark’s Cool Food Pledge commitment within a major residence dining facility.",
+      "Committed to making at least 50% of its menus plant-based by the end of 2027.",
       "Supports a goal to reduce food-related greenhouse-gas emissions by 25% by 2030.",
       "Integrates lower-carbon menu planning into a high-volume student dining environment.",
-      "Places food emissions alongside the building’s broader Passive House and sustainability objectives."
+      "Places food emissions alongside the building’s broader Passive House and sustainability objectives.",
+      "Applies Aramark’s Cool Food Pledge commitment within a major residence dining facility."
     ],
     "organizationsInvolved": [],
     "resources": [
       {
         "label": "Primary source",
+        "url": "https://humaneworldfoundation.ca/latest-updates/u-toronto-scarborough-50-percent-plant-based-menus-forward-food"
+      },
+      {
+        "label": "Secondary source",
         "url": "https://www.utsc.utoronto.ca/food/harmony-commons-passive-house-dining"
       }
     ],
-    "lastUpdated": "2026-07-28",
+    "lastUpdated": "2026-11-13",
     "verified": true,
     "image": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/University_of_Toronto_Scarborough_aerial_view_2024.jpg",
