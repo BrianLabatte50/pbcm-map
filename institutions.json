@@ -105,18 +105,24 @@
     "coordinatesApproximate": true,
     "stage": "implemented",
     "stageLabel": "Implemented / documented",
-    "yearImplemented": null,
+    "yearImplemented": 2025,
     "timeframe": "",
     "headline": "One-Year Plant-Forward Procurement Pilot Launched",
     "stats": [
       {
-        "value": "1",
-        "label": "Year pilot"
+        "value": "1 Year Pilot",
+        "label": "Documented result or target"
+      },
+      {
+        "value": "2025",
+        "label": "Year documented"
       }
     ],
     "summary": "Saanich launched a one-year pilot after a Greener by Default workshop. The pilot tests plant-forward food purchasing and vendor practices while staff develop policy and emissions tracking.",
     "achievements": [
-      "Saanich Sustainability department agreed that prioritizing plant based foods when using public money to buy food or hiring food vendors and contracting food service in the region. Saanich hosted a workshop by Greener by Default and launched a one year pilot project to test uptake and feasibility. Policy development is underway and GHG measurement procedures being developed."
+      "Saanich Sustainability department agreed that prioritizing plant based foods when using public money to buy food or hiring food vendors and contracting food service in the region.",
+      "Saanich hosted a workshop by Greener by Default and launched a one year pilot project to test uptake and feasibility.",
+      "Policy development is underway and GHG measurement procedures being developed."
     ],
     "organizationsInvolved": [],
     "resources": [
@@ -489,11 +495,11 @@
     "lastUpdated": "2026-07-02",
     "verified": true,
     "image": {
-      "url": "https://food-guide.canada.ca/sites/default/files/styles/title_bar_image/public/2022-05/ComboShot-Banner%20500x300.jpg",
+      "url": "https://cdn.publicsectornetwork.com/thumbnails/insight/feature_images/Canadian_Government_fba56a.jpeg.1920x1080_q85_autocrop_crop-smart.jpg",
       "kind": "initiative",
-      "alt": "Canada's food guide plate featuring vegetables, fruits, whole grains and protein foods",
-      "credit": "Health Canada",
-      "source": "https://food-guide.canada.ca/en/healthy-eating-recommendations/make-it-a-habit-to-eat-vegetables-fruit-whole-grains-and-protein-foods/",
+      "alt": "Canadian flag waving alongside Centre Block on Parliament Hill.",
+      "credit": "Government of Canada",
+      "source": "https://cdn.publicsectornetwork.com/thumbnails/insight/feature_images/Canadian_Government_fba56a.jpeg.1920x1080_q85_autocrop_crop-smart.jpg",
       "position": "center"
     }
   },
@@ -599,11 +605,11 @@
     "lastUpdated": "2026-07-06",
     "verified": true,
     "image": {
-      "url": "https://news.uoguelph.ca/wp-content/uploads/2022/09/lentil-shepherds-pie-500x333.jpg",
+      "url": "https://static.farmtario.com/wp-content/uploads/2022/10/31114840/lentil-shepherds-pie.jpeg",
       "kind": "initiative",
       "alt": "Plant-based lentil shepherd's pie portions prepared at the University of Guelph Child Care and Learning Centre",
       "credit": "University of Guelph",
-      "source": "https://news.uoguelph.ca/2022/10/u-of-gs-child-care-and-learning-centre-cuts-carbon-footprint-through-plant-based-menu/",
+      "source": "https://static.farmtario.com/wp-content/uploads/2022/10/31114840/lentil-shepherds-pie.jpeg",
       "position": "center"
     }
   },
@@ -621,18 +627,26 @@
     "coordinatesApproximate": true,
     "stage": "implemented",
     "stageLabel": "Implemented / documented",
-    "yearImplemented": null,
+    "yearImplemented": 2026,
     "timeframe": "",
-    "headline": "Vegan and Vegetarian Options Make Up Most Dining Menus",
+    "headline": "Concordia Reports 42% Vegan and 24% Vegetarian Dining Hall Menus",
     "stats": [
       {
         "value": "42%",
         "label": "Vegan menu options (%)"
+      },
+      {
+        "value": "2026",
+        "label": "Year documented"
       }
     ],
-    "summary": "Concordia reports that about 42% of dining options are vegan and 24% are vegetarian. The university also increased the visibility and promotion of plant-based milk.",
+    "summary": "Concordia University’s August 2026 final report on its Sustainability Action Plan 2020–25 states that dining hall menus include 42% vegan and 24% vegetarian options. It separately reports that animal-free food purchasing rose from 52% to 65% over the plan period, while local and sustainable food purchasing increased from 36% in 2019–20 to 59.3% in 2024–25. Food and beverage contracts now include sustainability requirements, including at least one plant-based milk option for coffee service from approved caterers.",
     "achievements": [
-      "Concordia University: dining menus include approximately 42% vegan and 24% vegetarian options, alongside increased visibility and promotion of plant-based milk"
+      "Dining hall menus include 42% vegan and 24% vegetarian options; 23.5% of fresh food served at Food Services retail locations is vegan, and all in-house prepared baked goods are vegan.",
+      "Animal-free food purchasing increased from 52% to 65%; animal-product purchases were reduced to 35% of the food budget, with the 30% target still in progress.",
+      "Local and sustainable food purchasing increased from 36% in 2019–20 to 59.3% in 2024–25.",
+      "Sustainability requirements were incorporated into food and beverage contracts; approved caterers must offer at least one plant-based milk for coffee service.",
+      "Dining halls host regular plant-based meal days and Climate Awareness Weeks, and Concordia introduced labelling covering plant-based, allergen and culturally inclusive food choices."
     ],
     "organizationsInvolved": [],
     "resources": [
@@ -668,17 +682,26 @@
     "stageLabel": "Reviewed initiative",
     "yearImplemented": null,
     "timeframe": "",
-    "headline": "Vegan and Vegetarian Meals Available Across Campus",
+    "headline": "Plant-Based Protein Transition and Expanded Plant-Based Dining at the University of Guelph",
     "stats": [],
-    "summary": "The University of Guelph provides vegan and vegetarian choices across campus dining locations. The current record confirms availability but does not document a measurable expansion or purchasing target.",
+    "summary": "The University of Guelph has committed to replacing 20% of the meat protein on its menus with plant-based alternatives through Forward Food. Hospitality Services reports a two-day culinary workshop involving more than 20 chefs and apprentices, dozens of new plant-based recipes, and 25 rotating plant-based bowls. Its Nosh & Nourish concept is 100% plant-based, with additional plant-based daily features and plant-milk options offered at campus eateries.",
     "achievements": [
-      "Vegan and Vegetarian options are readily available across campus,"
+      "Committed to transitioning 20% of meat protein on menus to plant-based alternatives.",
+      "Hosted a two-day Forward Food culinary workshop for more than 20 chefs and apprentices.",
+      "Introduced dozens of new plant-based recipes, including 25 rotating plant-based bowls, and daily plant-based features across campus eateries.",
+      "Operates Nosh & Nourish as a 100% plant-based dining concept; a university webinar recorded an increase in its prepared-food volume from 30 L in September 2022 to 135 L in March 2023.",
+      "Offers plant-based milk options at campus cafés.",
+      "Launched the Sustainable Smash Burger in fall 2021, combining 50% beef and 50% quinoa, oats and mushrooms; this burger is blended, not vegan or vegetarian."
     ],
     "organizationsInvolved": [],
     "resources": [
       {
         "label": "Primary source",
-        "url": "https://hospitality.uoguelph.ca/"
+        "url": "https://www.uoguelph.ca/hospitality-services/menus-of-change"
+      },
+      {
+        "label": "Secondary source",
+        "url": "https://plantbasedcities.org/wp-content/uploads/2025/12/UGuelph_Plant-Based-University_webinar-1.pdf"
       }
     ],
     "lastUpdated": "2026-07-07",
@@ -803,14 +826,14 @@
     "stageLabel": "Commitment in progress",
     "yearImplemented": null,
     "timeframe": "",
-    "headline": "Climate-Friendly Food Procurement Guidelines Support a 50% Food-Emissions Target",
+    "headline": "55% of UBC Dining Hall Food Is Plant-Based, Supported by Climate-Friendly Procurement Guidelines",
     "stats": [
       {
-        "value": "50%",
-        "label": "Food-emissions reduction target by 2030 (%)"
+        "value": "55%",
+        "label": "Plant-based food served in campus dining halls (%)"
       }
     ],
-    "summary": "UBC adopted Climate-Friendly Food System Procurement Guidelines under its Climate Action Plan 2030, supporting a target to reduce food-system greenhouse gas emissions by 50% by 2030. The guidelines prioritize reducing ruminant meat and dairy purchases and increasing the use of climate-friendly alternatives. UBC Food Services reports that 55% of food served in its campus dining halls is plant-based.",
+    "summary": "Reports that 55% of food served in Vancouver campus dining halls is plant-based.\nAdopted Climate-Friendly Food System Procurement Guidelines to support sustainable food purchasing across campus.\nSet a target to reduce food-system greenhouse gas emissions by 50% by 2030.\nEstablished guidelines for campus food providers to assess purchasing baselines and set reduction targets for ruminant meat, dairy, and other carbon-intensive animal products.\nEncourages substitutions with climate-friendly alternatives, including plant-based milk options.\nIntroduced Climate-Friendly Food Labels in residence dining halls, supported by research assessing the environmental footprints of 775 menu items.\nIncorporated measures to reduce food waste and packaging waste into its procurement guidelines.",
     "achievements": [
       "Reports 55% of dining hall menu options are plant-based.",
       "Adopted climate-friendly food-system procurement guidelines for campus food providers.",
@@ -823,6 +846,10 @@
       {
         "label": "Primary source",
         "url": "https://planning.ubc.ca/sustainability/sustainability-action-plans/climate-action-plan-2030/food-systems/climate-friendly-food-systems-procurement-guidelines"
+      },
+      {
+        "label": "Secondary source",
+        "url": "https://food.ubc.ca/climate-friendly-food-labels/"
       }
     ],
     "lastUpdated": "2026-07-06",
