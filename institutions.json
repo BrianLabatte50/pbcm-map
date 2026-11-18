@@ -627,17 +627,13 @@
     "coordinatesApproximate": true,
     "stage": "implemented",
     "stageLabel": "Implemented / documented",
-    "yearImplemented": 2026,
+    "yearImplemented": null,
     "timeframe": "",
     "headline": "Concordia Reports 42% Vegan and 24% Vegetarian Dining Hall Menus",
     "stats": [
       {
         "value": "42%",
         "label": "Vegan menu options (%)"
-      },
-      {
-        "value": "2026",
-        "label": "Year documented"
       }
     ],
     "summary": "Concordia University’s August 2026 final report on its Sustainability Action Plan 2020–25 states that dining hall menus include 42% vegan and 24% vegetarian options. It separately reports that animal-free food purchasing rose from 52% to 65% over the plan period, while local and sustainable food purchasing increased from 36% in 2019–20 to 59.3% in 2024–25. Food and beverage contracts now include sustainability requirements, including at least one plant-based milk option for coffee service from approved caterers.",
